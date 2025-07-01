@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "apexcharts": "^4.7.0",
     "flowbite-react": "^0.11.8",
+    "flowbite-typography": "^1.0.5",
     "next": "15.3.4",
     "react": "^19.0.0",
+    "react-apexcharts": "^1.7.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
