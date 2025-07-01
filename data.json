@@ -1,0 +1,9857 @@
+{
+  "1/1/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 1,
+    "Weekday": "Fri",
+    "Traffic": 113139,
+    "Orders": 8854,
+    "Sales": 264623
+  },
+  "1/2/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 2,
+    "Weekday": "Sat",
+    "Traffic": 95382,
+    "Orders": 8463,
+    "Sales": 259907
+  },
+  "1/3/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 3,
+    "Weekday": "Sun",
+    "Traffic": 78150,
+    "Orders": 7872,
+    "Sales": 232855
+  },
+  "1/4/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 4,
+    "Weekday": "Mon",
+    "Traffic": 100152,
+    "Orders": 9849,
+    "Sales": 271623
+  },
+  "1/5/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 5,
+    "Weekday": "Tue",
+    "Traffic": 108393,
+    "Orders": 10163,
+    "Sales": 289159
+  },
+  "1/6/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 6,
+    "Weekday": "Wed",
+    "Traffic": 92084,
+    "Orders": 9730,
+    "Sales": 298375
+  },
+  "1/7/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 7,
+    "Weekday": "Thu",
+    "Traffic": 99421,
+    "Orders": 10145,
+    "Sales": 300997
+  },
+  "1/8/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 8,
+    "Weekday": "Fri",
+    "Traffic": 99083,
+    "Orders": 9558,
+    "Sales": 291498
+  },
+  "1/9/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 9,
+    "Weekday": "Sat",
+    "Traffic": 84535,
+    "Orders": 8898,
+    "Sales": 248321
+  },
+  "1/10/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 10,
+    "Weekday": "Sun",
+    "Traffic": 80830,
+    "Orders": 10066,
+    "Sales": 267659
+  },
+  "1/11/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 11,
+    "Weekday": "Mon",
+    "Traffic": 106911,
+    "Orders": 11977,
+    "Sales": 335220
+  },
+  "1/12/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 12,
+    "Weekday": "Tue",
+    "Traffic": 116261,
+    "Orders": 10946,
+    "Sales": 313329
+  },
+  "1/13/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 13,
+    "Weekday": "Wed",
+    "Traffic": 112522,
+    "Orders": 10753,
+    "Sales": 325474
+  },
+  "1/14/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 14,
+    "Weekday": "Thu",
+    "Traffic": 131201,
+    "Orders": 9694,
+    "Sales": 298591
+  },
+  "1/15/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 15,
+    "Weekday": "Fri",
+    "Traffic": 102037,
+    "Orders": 9365,
+    "Sales": 296937
+  },
+  "1/16/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 16,
+    "Weekday": "Sat",
+    "Traffic": 90469,
+    "Orders": 9122,
+    "Sales": 282856
+  },
+  "1/17/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 17,
+    "Weekday": "Sun",
+    "Traffic": 129825,
+    "Orders": 9260,
+    "Sales": 277831
+  },
+  "1/18/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 18,
+    "Weekday": "Mon",
+    "Traffic": 133674,
+    "Orders": 11034,
+    "Sales": 315876
+  },
+  "1/19/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 19,
+    "Weekday": "Tue",
+    "Traffic": 136047,
+    "Orders": 13381,
+    "Sales": 370837
+  },
+  "1/20/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 20,
+    "Weekday": "Wed",
+    "Traffic": 124283,
+    "Orders": 11179,
+    "Sales": 330238
+  },
+  "1/21/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 21,
+    "Weekday": "Thu",
+    "Traffic": 113709,
+    "Orders": 10780,
+    "Sales": 339349
+  },
+  "1/22/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 22,
+    "Weekday": "Fri",
+    "Traffic": 109132,
+    "Orders": 10104,
+    "Sales": 303950
+  },
+  "1/23/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 23,
+    "Weekday": "Sat",
+    "Traffic": 89351,
+    "Orders": 8135,
+    "Sales": 286811
+  },
+  "1/24/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 24,
+    "Weekday": "Sun",
+    "Traffic": 88949,
+    "Orders": 9829,
+    "Sales": 302034
+  },
+  "1/25/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 25,
+    "Weekday": "Mon",
+    "Traffic": 109062,
+    "Orders": 11288,
+    "Sales": 324516
+  },
+  "1/26/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 26,
+    "Weekday": "Tue",
+    "Traffic": 128666,
+    "Orders": 12163,
+    "Sales": 355579
+  },
+  "1/27/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 27,
+    "Weekday": "Wed",
+    "Traffic": 115043,
+    "Orders": 11468,
+    "Sales": 351931
+  },
+  "1/28/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 28,
+    "Weekday": "Thu",
+    "Traffic": 110253,
+    "Orders": 10986,
+    "Sales": 326555
+  },
+  "1/29/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 29,
+    "Weekday": "Fri",
+    "Traffic": 112691,
+    "Orders": 11617,
+    "Sales": 370254
+  },
+  "1/30/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 30,
+    "Weekday": "Sat",
+    "Traffic": 122813,
+    "Orders": 11242,
+    "Sales": 365656
+  },
+  "1/31/2022": {
+    "Year": 2022,
+    "Month": "Jan",
+    "Day": 31,
+    "Weekday": "Sun",
+    "Traffic": 107831,
+    "Orders": 10694,
+    "Sales": 336592
+  },
+  "2/1/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 1,
+    "Weekday": "Mon",
+    "Traffic": 131180,
+    "Orders": 12084,
+    "Sales": 359669
+  },
+  "2/2/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 2,
+    "Weekday": "Tue",
+    "Traffic": 138741,
+    "Orders": 12273,
+    "Sales": 372722
+  },
+  "2/3/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 3,
+    "Weekday": "Wed",
+    "Traffic": 118439,
+    "Orders": 11821,
+    "Sales": 367934
+  },
+  "2/4/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 4,
+    "Weekday": "Thu",
+    "Traffic": 120997,
+    "Orders": 11792,
+    "Sales": 369612
+  },
+  "2/5/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 5,
+    "Weekday": "Fri",
+    "Traffic": 118844,
+    "Orders": 11819,
+    "Sales": 388939
+  },
+  "2/6/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 6,
+    "Weekday": "Sat",
+    "Traffic": 105542,
+    "Orders": 10133,
+    "Sales": 343581
+  },
+  "2/7/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 7,
+    "Weekday": "Sun",
+    "Traffic": 90612,
+    "Orders": 9917,
+    "Sales": 315735
+  },
+  "2/8/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 8,
+    "Weekday": "Mon",
+    "Traffic": 113453,
+    "Orders": 12081,
+    "Sales": 386279
+  },
+  "2/9/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 9,
+    "Weekday": "Tue",
+    "Traffic": 138702,
+    "Orders": 12723,
+    "Sales": 383181
+  },
+  "2/10/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 10,
+    "Weekday": "Wed",
+    "Traffic": 119975,
+    "Orders": 12544,
+    "Sales": 393423
+  },
+  "2/11/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 11,
+    "Weekday": "Thu",
+    "Traffic": 116344,
+    "Orders": 11198,
+    "Sales": 347347
+  },
+  "2/12/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 12,
+    "Weekday": "Fri",
+    "Traffic": 179892,
+    "Orders": 11661,
+    "Sales": 366415
+  },
+  "2/13/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 13,
+    "Weekday": "Sat",
+    "Traffic": 109322,
+    "Orders": 10645,
+    "Sales": 315244
+  },
+  "2/14/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 14,
+    "Weekday": "Sun",
+    "Traffic": 85647,
+    "Orders": 9116,
+    "Sales": 272860
+  },
+  "2/15/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 15,
+    "Weekday": "Mon",
+    "Traffic": 129564,
+    "Orders": 14606,
+    "Sales": 411185
+  },
+  "2/16/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 16,
+    "Weekday": "Tue",
+    "Traffic": 126241,
+    "Orders": 12120,
+    "Sales": 361895
+  },
+  "2/17/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 17,
+    "Weekday": "Wed",
+    "Traffic": 123680,
+    "Orders": 12329,
+    "Sales": 377475
+  },
+  "2/18/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 18,
+    "Weekday": "Thu",
+    "Traffic": 156611,
+    "Orders": 12850,
+    "Sales": 385642
+  },
+  "2/19/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 19,
+    "Weekday": "Fri",
+    "Traffic": 118727,
+    "Orders": 11685,
+    "Sales": 365856
+  },
+  "2/20/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 20,
+    "Weekday": "Sat",
+    "Traffic": 106324,
+    "Orders": 8982,
+    "Sales": 292133
+  },
+  "2/21/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 21,
+    "Weekday": "Sun",
+    "Traffic": 99695,
+    "Orders": 9968,
+    "Sales": 310204
+  },
+  "2/22/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 22,
+    "Weekday": "Mon",
+    "Traffic": 112934,
+    "Orders": 12160,
+    "Sales": 364053
+  },
+  "2/23/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 23,
+    "Weekday": "Tue",
+    "Traffic": 129472,
+    "Orders": 12735,
+    "Sales": 382380
+  },
+  "2/24/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 24,
+    "Weekday": "Wed",
+    "Traffic": 147133,
+    "Orders": 12742,
+    "Sales": 389429
+  },
+  "2/25/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 25,
+    "Weekday": "Thu",
+    "Traffic": 130641,
+    "Orders": 11787,
+    "Sales": 363840
+  },
+  "2/26/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 26,
+    "Weekday": "Fri",
+    "Traffic": 136500,
+    "Orders": 12097,
+    "Sales": 377577
+  },
+  "2/27/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 27,
+    "Weekday": "Sat",
+    "Traffic": 96810,
+    "Orders": 9566,
+    "Sales": 308140
+  },
+  "2/28/2022": {
+    "Year": 2022,
+    "Month": "Feb",
+    "Day": 28,
+    "Weekday": "Sun",
+    "Traffic": 93314,
+    "Orders": 10348,
+    "Sales": 330073
+  },
+  "3/1/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 1,
+    "Weekday": "Mon",
+    "Traffic": 117171,
+    "Orders": 11779,
+    "Sales": 349822
+  },
+  "3/2/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 2,
+    "Weekday": "Tue",
+    "Traffic": 131536,
+    "Orders": 12603,
+    "Sales": 387276
+  },
+  "3/3/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 3,
+    "Weekday": "Wed",
+    "Traffic": 121378,
+    "Orders": 12673,
+    "Sales": 400796
+  },
+  "3/4/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 4,
+    "Weekday": "Thu",
+    "Traffic": 123350,
+    "Orders": 12022,
+    "Sales": 372049
+  },
+  "3/5/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 5,
+    "Weekday": "Fri",
+    "Traffic": 95381,
+    "Orders": 11333,
+    "Sales": 374278
+  },
+  "3/6/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 6,
+    "Weekday": "Sat",
+    "Traffic": 115979,
+    "Orders": 9451,
+    "Sales": 318151
+  },
+  "3/7/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 7,
+    "Weekday": "Sun",
+    "Traffic": 152075,
+    "Orders": 9138,
+    "Sales": 295899
+  },
+  "3/8/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 8,
+    "Weekday": "Mon",
+    "Traffic": 148785,
+    "Orders": 13066,
+    "Sales": 402968
+  },
+  "3/9/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 9,
+    "Weekday": "Tue",
+    "Traffic": 159559,
+    "Orders": 13672,
+    "Sales": 415768
+  },
+  "3/10/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 10,
+    "Weekday": "Wed",
+    "Traffic": 117811,
+    "Orders": 13070,
+    "Sales": 408050
+  },
+  "3/11/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 11,
+    "Weekday": "Thu",
+    "Traffic": 133279,
+    "Orders": 12390,
+    "Sales": 384840
+  },
+  "3/12/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 12,
+    "Weekday": "Fri",
+    "Traffic": 123790,
+    "Orders": 12026,
+    "Sales": 365905
+  },
+  "3/13/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 13,
+    "Weekday": "Sat",
+    "Traffic": 96435,
+    "Orders": 9842,
+    "Sales": 332591
+  },
+  "3/14/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 14,
+    "Weekday": "Sun",
+    "Traffic": 130179,
+    "Orders": 10145,
+    "Sales": 334377
+  },
+  "3/15/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 15,
+    "Weekday": "Mon",
+    "Traffic": 165850,
+    "Orders": 15151,
+    "Sales": 480326
+  },
+  "3/16/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 16,
+    "Weekday": "Tue",
+    "Traffic": 142990,
+    "Orders": 12617,
+    "Sales": 387372
+  },
+  "3/17/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 17,
+    "Weekday": "Wed",
+    "Traffic": 122334,
+    "Orders": 11833,
+    "Sales": 380362
+  },
+  "3/18/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 18,
+    "Weekday": "Thu",
+    "Traffic": 117814,
+    "Orders": 11259,
+    "Sales": 353767
+  },
+  "3/19/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 19,
+    "Weekday": "Fri",
+    "Traffic": 112216,
+    "Orders": 10694,
+    "Sales": 343156
+  },
+  "3/20/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 20,
+    "Weekday": "Sat",
+    "Traffic": 100214,
+    "Orders": 8808,
+    "Sales": 295812
+  },
+  "3/21/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 21,
+    "Weekday": "Sun",
+    "Traffic": 92111,
+    "Orders": 9528,
+    "Sales": 303314
+  },
+  "3/22/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 22,
+    "Weekday": "Mon",
+    "Traffic": 140332,
+    "Orders": 15485,
+    "Sales": 441454
+  },
+  "3/23/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 23,
+    "Weekday": "Tue",
+    "Traffic": 160815,
+    "Orders": 13308,
+    "Sales": 394914
+  },
+  "3/24/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 24,
+    "Weekday": "Wed",
+    "Traffic": 129604,
+    "Orders": 12402,
+    "Sales": 379753
+  },
+  "3/25/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 25,
+    "Weekday": "Thu",
+    "Traffic": 135669,
+    "Orders": 11531,
+    "Sales": 352415
+  },
+  "3/26/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 26,
+    "Weekday": "Fri",
+    "Traffic": 119058,
+    "Orders": 10627,
+    "Sales": 329554
+  },
+  "3/27/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 27,
+    "Weekday": "Sat",
+    "Traffic": 107337,
+    "Orders": 8120,
+    "Sales": 262288
+  },
+  "3/28/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 28,
+    "Weekday": "Sun",
+    "Traffic": 145085,
+    "Orders": 9468,
+    "Sales": 295615
+  },
+  "3/29/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 29,
+    "Weekday": "Mon",
+    "Traffic": 201312,
+    "Orders": 13277,
+    "Sales": 404279
+  },
+  "3/30/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 30,
+    "Weekday": "Tue",
+    "Traffic": 142945,
+    "Orders": 11668,
+    "Sales": 361125
+  },
+  "3/31/2022": {
+    "Year": 2022,
+    "Month": "Mar",
+    "Day": 31,
+    "Weekday": "Wed",
+    "Traffic": 118281,
+    "Orders": 10371,
+    "Sales": 316692
+  },
+  "4/1/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 1,
+    "Weekday": "Thu",
+    "Traffic": 113524,
+    "Orders": 9880,
+    "Sales": 300768
+  },
+  "4/2/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 2,
+    "Weekday": "Fri",
+    "Traffic": 105681,
+    "Orders": 9000,
+    "Sales": 288540
+  },
+  "4/3/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 3,
+    "Weekday": "Sat",
+    "Traffic": 83364,
+    "Orders": 6538,
+    "Sales": 220526
+  },
+  "4/4/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 4,
+    "Weekday": "Sun",
+    "Traffic": 70789,
+    "Orders": 6622,
+    "Sales": 212148
+  },
+  "4/5/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 5,
+    "Weekday": "Mon",
+    "Traffic": 114453,
+    "Orders": 11524,
+    "Sales": 338618
+  },
+  "4/6/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 6,
+    "Weekday": "Tue",
+    "Traffic": 125727,
+    "Orders": 11788,
+    "Sales": 365602
+  },
+  "4/7/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 7,
+    "Weekday": "Wed",
+    "Traffic": 122998,
+    "Orders": 11593,
+    "Sales": 349466
+  },
+  "4/8/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 8,
+    "Weekday": "Thu",
+    "Traffic": 121856,
+    "Orders": 11510,
+    "Sales": 338646
+  },
+  "4/9/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 9,
+    "Weekday": "Fri",
+    "Traffic": 116480,
+    "Orders": 10974,
+    "Sales": 346495
+  },
+  "4/10/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 10,
+    "Weekday": "Sat",
+    "Traffic": 107116,
+    "Orders": 8761,
+    "Sales": 302023
+  },
+  "4/11/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 11,
+    "Weekday": "Sun",
+    "Traffic": 109408,
+    "Orders": 9052,
+    "Sales": 295329
+  },
+  "4/12/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 12,
+    "Weekday": "Mon",
+    "Traffic": 180155,
+    "Orders": 14693,
+    "Sales": 418694
+  },
+  "4/13/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 13,
+    "Weekday": "Tue",
+    "Traffic": 173633,
+    "Orders": 13968,
+    "Sales": 420573
+  },
+  "4/14/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 14,
+    "Weekday": "Wed",
+    "Traffic": 145855,
+    "Orders": 14141,
+    "Sales": 387162
+  },
+  "4/15/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 15,
+    "Weekday": "Thu",
+    "Traffic": 127583,
+    "Orders": 11805,
+    "Sales": 371220
+  },
+  "4/16/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 16,
+    "Weekday": "Fri",
+    "Traffic": 105158,
+    "Orders": 10136,
+    "Sales": 330593
+  },
+  "4/17/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 17,
+    "Weekday": "Sat",
+    "Traffic": 85191,
+    "Orders": 7599,
+    "Sales": 254424
+  },
+  "4/18/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 18,
+    "Weekday": "Sun",
+    "Traffic": 86024,
+    "Orders": 9050,
+    "Sales": 286826
+  },
+  "4/19/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 19,
+    "Weekday": "Mon",
+    "Traffic": 118115,
+    "Orders": 11740,
+    "Sales": 352312
+  },
+  "4/20/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 20,
+    "Weekday": "Tue",
+    "Traffic": 127212,
+    "Orders": 11667,
+    "Sales": 359469
+  },
+  "4/21/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 21,
+    "Weekday": "Wed",
+    "Traffic": 123354,
+    "Orders": 11847,
+    "Sales": 361412
+  },
+  "4/22/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 22,
+    "Weekday": "Thu",
+    "Traffic": 124201,
+    "Orders": 11244,
+    "Sales": 347639
+  },
+  "4/23/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 23,
+    "Weekday": "Fri",
+    "Traffic": 106677,
+    "Orders": 9934,
+    "Sales": 306458
+  },
+  "4/24/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 24,
+    "Weekday": "Sat",
+    "Traffic": 88677,
+    "Orders": 7821,
+    "Sales": 251654
+  },
+  "4/25/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 25,
+    "Weekday": "Sun",
+    "Traffic": 93228,
+    "Orders": 8813,
+    "Sales": 273294
+  },
+  "4/26/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 26,
+    "Weekday": "Mon",
+    "Traffic": 160629,
+    "Orders": 14980,
+    "Sales": 405596
+  },
+  "4/27/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 27,
+    "Weekday": "Tue",
+    "Traffic": 153676,
+    "Orders": 13036,
+    "Sales": 379414
+  },
+  "4/28/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 28,
+    "Weekday": "Wed",
+    "Traffic": 118852,
+    "Orders": 11107,
+    "Sales": 336191
+  },
+  "4/29/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 29,
+    "Weekday": "Thu",
+    "Traffic": 105767,
+    "Orders": 10435,
+    "Sales": 322126
+  },
+  "4/30/2022": {
+    "Year": 2022,
+    "Month": "Apr",
+    "Day": 30,
+    "Weekday": "Fri",
+    "Traffic": 96285,
+    "Orders": 9834,
+    "Sales": 321063
+  },
+  "5/1/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 1,
+    "Weekday": "Sat",
+    "Traffic": 92018,
+    "Orders": 7675,
+    "Sales": 255707
+  },
+  "5/2/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 2,
+    "Weekday": "Sun",
+    "Traffic": 84890,
+    "Orders": 8914,
+    "Sales": 271167
+  },
+  "5/3/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 3,
+    "Weekday": "Mon",
+    "Traffic": 130724,
+    "Orders": 12528,
+    "Sales": 365487
+  },
+  "5/4/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 4,
+    "Weekday": "Tue",
+    "Traffic": 125649,
+    "Orders": 12219,
+    "Sales": 358783
+  },
+  "5/5/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 5,
+    "Weekday": "Wed",
+    "Traffic": 122737,
+    "Orders": 11727,
+    "Sales": 350551
+  },
+  "5/6/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 6,
+    "Weekday": "Thu",
+    "Traffic": 110833,
+    "Orders": 10858,
+    "Sales": 321604
+  },
+  "5/7/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 7,
+    "Weekday": "Fri",
+    "Traffic": 148485,
+    "Orders": 10514,
+    "Sales": 326774
+  },
+  "5/8/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 8,
+    "Weekday": "Sat",
+    "Traffic": 120039,
+    "Orders": 7815,
+    "Sales": 256520
+  },
+  "5/9/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 9,
+    "Weekday": "Sun",
+    "Traffic": 89175,
+    "Orders": 7769,
+    "Sales": 243661
+  },
+  "5/10/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 10,
+    "Weekday": "Mon",
+    "Traffic": 142697,
+    "Orders": 13479,
+    "Sales": 380338
+  },
+  "5/11/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 11,
+    "Weekday": "Tue",
+    "Traffic": 143719,
+    "Orders": 12292,
+    "Sales": 363695
+  },
+  "5/12/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 12,
+    "Weekday": "Wed",
+    "Traffic": 124047,
+    "Orders": 12415,
+    "Sales": 377511
+  },
+  "5/13/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 13,
+    "Weekday": "Thu",
+    "Traffic": 121856,
+    "Orders": 11037,
+    "Sales": 335206
+  },
+  "5/14/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 14,
+    "Weekday": "Fri",
+    "Traffic": 120395,
+    "Orders": 11042,
+    "Sales": 347493
+  },
+  "5/15/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 15,
+    "Weekday": "Sat",
+    "Traffic": 99988,
+    "Orders": 7993,
+    "Sales": 262603
+  },
+  "5/16/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 16,
+    "Weekday": "Sun",
+    "Traffic": 100749,
+    "Orders": 9105,
+    "Sales": 287090
+  },
+  "5/17/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 17,
+    "Weekday": "Mon",
+    "Traffic": 120237,
+    "Orders": 12617,
+    "Sales": 367923
+  },
+  "5/18/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 18,
+    "Weekday": "Tue",
+    "Traffic": 142451,
+    "Orders": 13032,
+    "Sales": 391865
+  },
+  "5/19/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 19,
+    "Weekday": "Wed",
+    "Traffic": 154220,
+    "Orders": 15499,
+    "Sales": 436537
+  },
+  "5/20/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 20,
+    "Weekday": "Thu",
+    "Traffic": 128600,
+    "Orders": 11439,
+    "Sales": 340668
+  },
+  "5/21/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 21,
+    "Weekday": "Fri",
+    "Traffic": 108999,
+    "Orders": 10102,
+    "Sales": 325852
+  },
+  "5/22/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 22,
+    "Weekday": "Sat",
+    "Traffic": 90603,
+    "Orders": 8147,
+    "Sales": 269922
+  },
+  "5/23/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 23,
+    "Weekday": "Sun",
+    "Traffic": 108108,
+    "Orders": 8777,
+    "Sales": 275320
+  },
+  "5/24/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 24,
+    "Weekday": "Mon",
+    "Traffic": 193793,
+    "Orders": 13414,
+    "Sales": 390164
+  },
+  "5/25/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 25,
+    "Weekday": "Tue",
+    "Traffic": 166831,
+    "Orders": 13006,
+    "Sales": 386234
+  },
+  "5/26/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 26,
+    "Weekday": "Wed",
+    "Traffic": 115005,
+    "Orders": 11043,
+    "Sales": 333434
+  },
+  "5/27/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 27,
+    "Weekday": "Thu",
+    "Traffic": 131920,
+    "Orders": 10990,
+    "Sales": 331423
+  },
+  "5/28/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 28,
+    "Weekday": "Fri",
+    "Traffic": 144187,
+    "Orders": 12736,
+    "Sales": 393285
+  },
+  "5/29/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 29,
+    "Weekday": "Sat",
+    "Traffic": 82035,
+    "Orders": 7586,
+    "Sales": 245918
+  },
+  "5/30/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 30,
+    "Weekday": "Sun",
+    "Traffic": 71345,
+    "Orders": 6948,
+    "Sales": 216580
+  },
+  "5/31/2022": {
+    "Year": 2022,
+    "Month": "May",
+    "Day": 31,
+    "Weekday": "Mon",
+    "Traffic": 105323,
+    "Orders": 11895,
+    "Sales": 364302
+  },
+  "6/1/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 1,
+    "Weekday": "Tue",
+    "Traffic": 117337,
+    "Orders": 12594,
+    "Sales": 370001
+  },
+  "6/2/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 2,
+    "Weekday": "Wed",
+    "Traffic": 117470,
+    "Orders": 12227,
+    "Sales": 363483
+  },
+  "6/3/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 3,
+    "Weekday": "Thu",
+    "Traffic": 115115,
+    "Orders": 11442,
+    "Sales": 345460
+  },
+  "6/4/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 4,
+    "Weekday": "Fri",
+    "Traffic": 128030,
+    "Orders": 10780,
+    "Sales": 334887
+  },
+  "6/5/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 5,
+    "Weekday": "Sat",
+    "Traffic": 88577,
+    "Orders": 7876,
+    "Sales": 273147
+  },
+  "6/6/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 6,
+    "Weekday": "Sun",
+    "Traffic": 154865,
+    "Orders": 9181,
+    "Sales": 294244
+  },
+  "6/7/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 7,
+    "Weekday": "Mon",
+    "Traffic": 195766,
+    "Orders": 12626,
+    "Sales": 395331
+  },
+  "6/8/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 8,
+    "Weekday": "Tue",
+    "Traffic": 146848,
+    "Orders": 11638,
+    "Sales": 364134
+  },
+  "6/9/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 9,
+    "Weekday": "Wed",
+    "Traffic": 123357,
+    "Orders": 10611,
+    "Sales": 331872
+  },
+  "6/10/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 10,
+    "Weekday": "Thu",
+    "Traffic": 124531,
+    "Orders": 10629,
+    "Sales": 333349
+  },
+  "6/11/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 11,
+    "Weekday": "Fri",
+    "Traffic": 116988,
+    "Orders": 10691,
+    "Sales": 330747
+  },
+  "6/12/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 12,
+    "Weekday": "Sat",
+    "Traffic": 92472,
+    "Orders": 7375,
+    "Sales": 242896
+  },
+  "6/13/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 13,
+    "Weekday": "Sun",
+    "Traffic": 92508,
+    "Orders": 8677,
+    "Sales": 271409
+  },
+  "6/14/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 14,
+    "Weekday": "Mon",
+    "Traffic": 110069,
+    "Orders": 11310,
+    "Sales": 337709
+  },
+  "6/15/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 15,
+    "Weekday": "Tue",
+    "Traffic": 129604,
+    "Orders": 12152,
+    "Sales": 358526
+  },
+  "6/16/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 16,
+    "Weekday": "Wed",
+    "Traffic": 109318,
+    "Orders": 10931,
+    "Sales": 348541
+  },
+  "6/17/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 17,
+    "Weekday": "Thu",
+    "Traffic": 110518,
+    "Orders": 10694,
+    "Sales": 318659
+  },
+  "6/18/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 18,
+    "Weekday": "Fri",
+    "Traffic": 96314,
+    "Orders": 9097,
+    "Sales": 287510
+  },
+  "6/19/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 19,
+    "Weekday": "Sat",
+    "Traffic": 70310,
+    "Orders": 6524,
+    "Sales": 234976
+  },
+  "6/20/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 20,
+    "Weekday": "Sun",
+    "Traffic": 133847,
+    "Orders": 7908,
+    "Sales": 252107
+  },
+  "6/21/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 21,
+    "Weekday": "Mon",
+    "Traffic": 143119,
+    "Orders": 11755,
+    "Sales": 359090
+  },
+  "6/22/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 22,
+    "Weekday": "Tue",
+    "Traffic": 144333,
+    "Orders": 15399,
+    "Sales": 440574
+  },
+  "6/23/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 23,
+    "Weekday": "Wed",
+    "Traffic": 120243,
+    "Orders": 11700,
+    "Sales": 370374
+  },
+  "6/24/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 24,
+    "Weekday": "Thu",
+    "Traffic": 118864,
+    "Orders": 10881,
+    "Sales": 330002
+  },
+  "6/25/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 25,
+    "Weekday": "Fri",
+    "Traffic": 100895,
+    "Orders": 10056,
+    "Sales": 321088
+  },
+  "6/26/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 26,
+    "Weekday": "Sat",
+    "Traffic": 77316,
+    "Orders": 7319,
+    "Sales": 237326
+  },
+  "6/27/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 27,
+    "Weekday": "Sun",
+    "Traffic": 75880,
+    "Orders": 8435,
+    "Sales": 261979
+  },
+  "6/28/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 28,
+    "Weekday": "Mon",
+    "Traffic": 145633,
+    "Orders": 15939,
+    "Sales": 449819
+  },
+  "6/29/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 29,
+    "Weekday": "Tue",
+    "Traffic": 140349,
+    "Orders": 12977,
+    "Sales": 374659
+  },
+  "6/30/2022": {
+    "Year": 2022,
+    "Month": "Jun",
+    "Day": 30,
+    "Weekday": "Wed",
+    "Traffic": 117949,
+    "Orders": 12284,
+    "Sales": 379176
+  },
+  "7/1/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 1,
+    "Weekday": "Thu",
+    "Traffic": 109597,
+    "Orders": 11210,
+    "Sales": 339844
+  },
+  "7/2/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 2,
+    "Weekday": "Fri",
+    "Traffic": 98594,
+    "Orders": 10355,
+    "Sales": 318324
+  },
+  "7/3/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 3,
+    "Weekday": "Sat",
+    "Traffic": 78842,
+    "Orders": 7336,
+    "Sales": 231266
+  },
+  "7/4/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 4,
+    "Weekday": "Sun",
+    "Traffic": 81557,
+    "Orders": 8477,
+    "Sales": 255811
+  },
+  "7/5/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 5,
+    "Weekday": "Mon",
+    "Traffic": 148053,
+    "Orders": 12639,
+    "Sales": 385953
+  },
+  "7/6/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 6,
+    "Weekday": "Tue",
+    "Traffic": 135038,
+    "Orders": 11171,
+    "Sales": 330381
+  },
+  "7/7/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 7,
+    "Weekday": "Wed",
+    "Traffic": 117506,
+    "Orders": 11289,
+    "Sales": 331371
+  },
+  "7/8/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 8,
+    "Weekday": "Thu",
+    "Traffic": 110847,
+    "Orders": 11253,
+    "Sales": 333098
+  },
+  "7/9/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 9,
+    "Weekday": "Fri",
+    "Traffic": 113633,
+    "Orders": 11702,
+    "Sales": 375121
+  },
+  "7/10/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 10,
+    "Weekday": "Sat",
+    "Traffic": 85465,
+    "Orders": 7838,
+    "Sales": 270313
+  },
+  "7/11/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 11,
+    "Weekday": "Sun",
+    "Traffic": 82183,
+    "Orders": 8443,
+    "Sales": 266906
+  },
+  "7/12/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 12,
+    "Weekday": "Mon",
+    "Traffic": 122136,
+    "Orders": 12497,
+    "Sales": 374064
+  },
+  "7/13/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 13,
+    "Weekday": "Tue",
+    "Traffic": 127965,
+    "Orders": 12581,
+    "Sales": 390452
+  },
+  "7/14/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 14,
+    "Weekday": "Wed",
+    "Traffic": 125224,
+    "Orders": 12298,
+    "Sales": 385021
+  },
+  "7/15/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 15,
+    "Weekday": "Thu",
+    "Traffic": 114965,
+    "Orders": 10864,
+    "Sales": 322859
+  },
+  "7/16/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 16,
+    "Weekday": "Fri",
+    "Traffic": 107775,
+    "Orders": 10188,
+    "Sales": 336386
+  },
+  "7/17/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 17,
+    "Weekday": "Sat",
+    "Traffic": 92981,
+    "Orders": 8292,
+    "Sales": 285340
+  },
+  "7/18/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 18,
+    "Weekday": "Sun",
+    "Traffic": 83982,
+    "Orders": 8265,
+    "Sales": 261700
+  },
+  "7/19/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 19,
+    "Weekday": "Mon",
+    "Traffic": 118616,
+    "Orders": 11894,
+    "Sales": 354275
+  },
+  "7/20/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 20,
+    "Weekday": "Tue",
+    "Traffic": 125173,
+    "Orders": 11938,
+    "Sales": 376096
+  },
+  "7/21/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 21,
+    "Weekday": "Wed",
+    "Traffic": 171168,
+    "Orders": 14556,
+    "Sales": 428287
+  },
+  "7/22/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 22,
+    "Weekday": "Thu",
+    "Traffic": 123362,
+    "Orders": 10773,
+    "Sales": 331858
+  },
+  "7/23/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 23,
+    "Weekday": "Fri",
+    "Traffic": 104114,
+    "Orders": 9601,
+    "Sales": 304384
+  },
+  "7/24/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 24,
+    "Weekday": "Sat",
+    "Traffic": 81330,
+    "Orders": 6686,
+    "Sales": 224005
+  },
+  "7/25/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 25,
+    "Weekday": "Sun",
+    "Traffic": 80758,
+    "Orders": 7776,
+    "Sales": 241042
+  },
+  "7/26/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 26,
+    "Weekday": "Mon",
+    "Traffic": 112472,
+    "Orders": 10823,
+    "Sales": 321001
+  },
+  "7/27/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 27,
+    "Weekday": "Tue",
+    "Traffic": 132446,
+    "Orders": 11726,
+    "Sales": 349348
+  },
+  "7/28/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 28,
+    "Weekday": "Wed",
+    "Traffic": 135582,
+    "Orders": 11457,
+    "Sales": 349345
+  },
+  "7/29/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 29,
+    "Weekday": "Thu",
+    "Traffic": 133525,
+    "Orders": 11966,
+    "Sales": 375872
+  },
+  "7/30/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 30,
+    "Weekday": "Fri",
+    "Traffic": 106270,
+    "Orders": 9547,
+    "Sales": 301343
+  },
+  "7/31/2022": {
+    "Year": 2022,
+    "Month": "Jul",
+    "Day": 31,
+    "Weekday": "Sat",
+    "Traffic": 83571,
+    "Orders": 6581,
+    "Sales": 218762
+  },
+  "8/1/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 1,
+    "Weekday": "Sun",
+    "Traffic": 135773,
+    "Orders": 7898,
+    "Sales": 244845
+  },
+  "8/2/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 2,
+    "Weekday": "Mon",
+    "Traffic": 143954,
+    "Orders": 10764,
+    "Sales": 315263
+  },
+  "8/3/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 3,
+    "Weekday": "Tue",
+    "Traffic": 132723,
+    "Orders": 10974,
+    "Sales": 329098
+  },
+  "8/4/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 4,
+    "Weekday": "Wed",
+    "Traffic": 126331,
+    "Orders": 11085,
+    "Sales": 326317
+  },
+  "8/5/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 5,
+    "Weekday": "Thu",
+    "Traffic": 117912,
+    "Orders": 10145,
+    "Sales": 299603
+  },
+  "8/6/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 6,
+    "Weekday": "Fri",
+    "Traffic": 104674,
+    "Orders": 9300,
+    "Sales": 291090
+  },
+  "8/7/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 7,
+    "Weekday": "Sat",
+    "Traffic": 83024,
+    "Orders": 6704,
+    "Sales": 220907
+  },
+  "8/8/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 8,
+    "Weekday": "Sun",
+    "Traffic": 99503,
+    "Orders": 9153,
+    "Sales": 286621
+  },
+  "8/9/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 9,
+    "Weekday": "Mon",
+    "Traffic": 127061,
+    "Orders": 11864,
+    "Sales": 350702
+  },
+  "8/10/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 10,
+    "Weekday": "Tue",
+    "Traffic": 110773,
+    "Orders": 10559,
+    "Sales": 309443
+  },
+  "8/11/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 11,
+    "Weekday": "Wed",
+    "Traffic": 119823,
+    "Orders": 10480,
+    "Sales": 315071
+  },
+  "8/12/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 12,
+    "Weekday": "Thu",
+    "Traffic": 124905,
+    "Orders": 10277,
+    "Sales": 314815
+  },
+  "8/13/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 13,
+    "Weekday": "Fri",
+    "Traffic": 101697,
+    "Orders": 8795,
+    "Sales": 282803
+  },
+  "8/14/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 14,
+    "Weekday": "Sat",
+    "Traffic": 94461,
+    "Orders": 7087,
+    "Sales": 244144
+  },
+  "8/15/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 15,
+    "Weekday": "Sun",
+    "Traffic": 84707,
+    "Orders": 7628,
+    "Sales": 243256
+  },
+  "8/16/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 16,
+    "Weekday": "Mon",
+    "Traffic": 111192,
+    "Orders": 9799,
+    "Sales": 305094
+  },
+  "8/17/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 17,
+    "Weekday": "Tue",
+    "Traffic": 129143,
+    "Orders": 10221,
+    "Sales": 311593
+  },
+  "8/18/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 18,
+    "Weekday": "Wed",
+    "Traffic": 114408,
+    "Orders": 9714,
+    "Sales": 316668
+  },
+  "8/19/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 19,
+    "Weekday": "Thu",
+    "Traffic": 114303,
+    "Orders": 9622,
+    "Sales": 302103
+  },
+  "8/20/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 20,
+    "Weekday": "Fri",
+    "Traffic": 101635,
+    "Orders": 8799,
+    "Sales": 276305
+  },
+  "8/21/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 21,
+    "Weekday": "Sat",
+    "Traffic": 87014,
+    "Orders": 6797,
+    "Sales": 230935
+  },
+  "8/22/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 22,
+    "Weekday": "Sun",
+    "Traffic": 84902,
+    "Orders": 7956,
+    "Sales": 251216
+  },
+  "8/23/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 23,
+    "Weekday": "Mon",
+    "Traffic": 118978,
+    "Orders": 10513,
+    "Sales": 319981
+  },
+  "8/24/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 24,
+    "Weekday": "Tue",
+    "Traffic": 126870,
+    "Orders": 10311,
+    "Sales": 313936
+  },
+  "8/25/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 25,
+    "Weekday": "Wed",
+    "Traffic": 154991,
+    "Orders": 11675,
+    "Sales": 367420
+  },
+  "8/26/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 26,
+    "Weekday": "Thu",
+    "Traffic": 112814,
+    "Orders": 9774,
+    "Sales": 298733
+  },
+  "8/27/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 27,
+    "Weekday": "Fri",
+    "Traffic": 140473,
+    "Orders": 8653,
+    "Sales": 291372
+  },
+  "8/28/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 28,
+    "Weekday": "Sat",
+    "Traffic": 117365,
+    "Orders": 6375,
+    "Sales": 222632
+  },
+  "8/29/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 29,
+    "Weekday": "Sun",
+    "Traffic": 100782,
+    "Orders": 7751,
+    "Sales": 251890
+  },
+  "8/30/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 30,
+    "Weekday": "Mon",
+    "Traffic": 135280,
+    "Orders": 10326,
+    "Sales": 334346
+  },
+  "8/31/2022": {
+    "Year": 2022,
+    "Month": "Aug",
+    "Day": 31,
+    "Weekday": "Tue",
+    "Traffic": 132759,
+    "Orders": 10718,
+    "Sales": 355356
+  },
+  "9/1/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 1,
+    "Weekday": "Wed",
+    "Traffic": 115019,
+    "Orders": 10387,
+    "Sales": 332430
+  },
+  "9/2/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 2,
+    "Weekday": "Thu",
+    "Traffic": 126373,
+    "Orders": 10622,
+    "Sales": 359685
+  },
+  "9/3/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 3,
+    "Weekday": "Fri",
+    "Traffic": 94407,
+    "Orders": 8487,
+    "Sales": 282332
+  },
+  "9/4/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 4,
+    "Weekday": "Sat",
+    "Traffic": 92433,
+    "Orders": 6874,
+    "Sales": 244879
+  },
+  "9/5/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 5,
+    "Weekday": "Sun",
+    "Traffic": 118681,
+    "Orders": 6628,
+    "Sales": 234094
+  },
+  "9/6/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 6,
+    "Weekday": "Mon",
+    "Traffic": 148608,
+    "Orders": 11054,
+    "Sales": 366160
+  },
+  "9/7/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 7,
+    "Weekday": "Tue",
+    "Traffic": 191415,
+    "Orders": 13788,
+    "Sales": 408854
+  },
+  "9/8/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 8,
+    "Weekday": "Wed",
+    "Traffic": 145007,
+    "Orders": 11825,
+    "Sales": 366603
+  },
+  "9/9/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 9,
+    "Weekday": "Thu",
+    "Traffic": 115685,
+    "Orders": 10062,
+    "Sales": 321693
+  },
+  "9/10/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 10,
+    "Weekday": "Fri",
+    "Traffic": 106635,
+    "Orders": 8697,
+    "Sales": 287908
+  },
+  "9/11/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 11,
+    "Weekday": "Sat",
+    "Traffic": 88079,
+    "Orders": 6495,
+    "Sales": 234559
+  },
+  "9/12/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 12,
+    "Weekday": "Sun",
+    "Traffic": 131039,
+    "Orders": 7760,
+    "Sales": 265446
+  },
+  "9/13/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 13,
+    "Weekday": "Mon",
+    "Traffic": 142647,
+    "Orders": 10187,
+    "Sales": 329346
+  },
+  "9/14/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 14,
+    "Weekday": "Tue",
+    "Traffic": 143640,
+    "Orders": 10771,
+    "Sales": 351981
+  },
+  "9/15/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 15,
+    "Weekday": "Wed",
+    "Traffic": 125636,
+    "Orders": 10239,
+    "Sales": 354893
+  },
+  "9/16/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 16,
+    "Weekday": "Thu",
+    "Traffic": 120633,
+    "Orders": 9968,
+    "Sales": 319157
+  },
+  "9/17/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 17,
+    "Weekday": "Fri",
+    "Traffic": 120379,
+    "Orders": 9409,
+    "Sales": 333950
+  },
+  "9/18/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 18,
+    "Weekday": "Sat",
+    "Traffic": 97686,
+    "Orders": 6836,
+    "Sales": 249008
+  },
+  "9/19/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 19,
+    "Weekday": "Sun",
+    "Traffic": 101427,
+    "Orders": 8645,
+    "Sales": 287717
+  },
+  "9/20/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 20,
+    "Weekday": "Mon",
+    "Traffic": 129746,
+    "Orders": 10884,
+    "Sales": 350688
+  },
+  "9/21/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 21,
+    "Weekday": "Tue",
+    "Traffic": 139404,
+    "Orders": 10736,
+    "Sales": 338812
+  },
+  "9/22/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 22,
+    "Weekday": "Wed",
+    "Traffic": 153605,
+    "Orders": 12320,
+    "Sales": 405255
+  },
+  "9/23/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 23,
+    "Weekday": "Thu",
+    "Traffic": 127671,
+    "Orders": 9883,
+    "Sales": 312281
+  },
+  "9/24/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 24,
+    "Weekday": "Fri",
+    "Traffic": 133746,
+    "Orders": 8732,
+    "Sales": 293769
+  },
+  "9/25/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 25,
+    "Weekday": "Sat",
+    "Traffic": 93340,
+    "Orders": 6046,
+    "Sales": 222813
+  },
+  "9/26/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 26,
+    "Weekday": "Sun",
+    "Traffic": 91955,
+    "Orders": 7728,
+    "Sales": 257440
+  },
+  "9/27/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 27,
+    "Weekday": "Mon",
+    "Traffic": 123891,
+    "Orders": 9651,
+    "Sales": 304527
+  },
+  "9/28/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 28,
+    "Weekday": "Tue",
+    "Traffic": 177832,
+    "Orders": 12911,
+    "Sales": 425564
+  },
+  "9/29/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 29,
+    "Weekday": "Wed",
+    "Traffic": 125053,
+    "Orders": 9972,
+    "Sales": 330524
+  },
+  "9/30/2022": {
+    "Year": 2022,
+    "Month": "Sep",
+    "Day": 30,
+    "Weekday": "Thu",
+    "Traffic": 119969,
+    "Orders": 9606,
+    "Sales": 309958
+  },
+  "10/1/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 1,
+    "Weekday": "Fri",
+    "Traffic": 101298,
+    "Orders": 8292,
+    "Sales": 272197
+  },
+  "10/2/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 2,
+    "Weekday": "Sat",
+    "Traffic": 88378,
+    "Orders": 6368,
+    "Sales": 222983
+  },
+  "10/3/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 3,
+    "Weekday": "Sun",
+    "Traffic": 139985,
+    "Orders": 8155,
+    "Sales": 268572
+  },
+  "10/4/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 4,
+    "Weekday": "Mon",
+    "Traffic": 162558,
+    "Orders": 10189,
+    "Sales": 325452
+  },
+  "10/5/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 5,
+    "Weekday": "Tue",
+    "Traffic": 150354,
+    "Orders": 10881,
+    "Sales": 357851
+  },
+  "10/6/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 6,
+    "Weekday": "Wed",
+    "Traffic": 138836,
+    "Orders": 10653,
+    "Sales": 347290
+  },
+  "10/7/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 7,
+    "Weekday": "Thu",
+    "Traffic": 119097,
+    "Orders": 9669,
+    "Sales": 316861
+  },
+  "10/8/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 8,
+    "Weekday": "Fri",
+    "Traffic": 127459,
+    "Orders": 8495,
+    "Sales": 282715
+  },
+  "10/9/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 9,
+    "Weekday": "Sat",
+    "Traffic": 106518,
+    "Orders": 6738,
+    "Sales": 243013
+  },
+  "10/10/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 10,
+    "Weekday": "Sun",
+    "Traffic": 147842,
+    "Orders": 9679,
+    "Sales": 314803
+  },
+  "10/11/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 11,
+    "Weekday": "Mon",
+    "Traffic": 207466,
+    "Orders": 11734,
+    "Sales": 394425
+  },
+  "10/12/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 12,
+    "Weekday": "Tue",
+    "Traffic": 154934,
+    "Orders": 10600,
+    "Sales": 347184
+  },
+  "10/13/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 13,
+    "Weekday": "Wed",
+    "Traffic": 139002,
+    "Orders": 9668,
+    "Sales": 325206
+  },
+  "10/14/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 14,
+    "Weekday": "Thu",
+    "Traffic": 123173,
+    "Orders": 9548,
+    "Sales": 317189
+  },
+  "10/15/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 15,
+    "Weekday": "Fri",
+    "Traffic": 113291,
+    "Orders": 8677,
+    "Sales": 296403
+  },
+  "10/16/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 16,
+    "Weekday": "Sat",
+    "Traffic": 100245,
+    "Orders": 6838,
+    "Sales": 255735
+  },
+  "10/17/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 17,
+    "Weekday": "Sun",
+    "Traffic": 84321,
+    "Orders": 7724,
+    "Sales": 261488
+  },
+  "10/18/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 18,
+    "Weekday": "Mon",
+    "Traffic": 128627,
+    "Orders": 10485,
+    "Sales": 343598
+  },
+  "10/19/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 19,
+    "Weekday": "Tue",
+    "Traffic": 123095,
+    "Orders": 10248,
+    "Sales": 340980
+  },
+  "10/20/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 20,
+    "Weekday": "Wed",
+    "Traffic": 136813,
+    "Orders": 11037,
+    "Sales": 368168
+  },
+  "10/21/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 21,
+    "Weekday": "Thu",
+    "Traffic": 124157,
+    "Orders": 10362,
+    "Sales": 378631
+  },
+  "10/22/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 22,
+    "Weekday": "Fri",
+    "Traffic": 114117,
+    "Orders": 8286,
+    "Sales": 355397
+  },
+  "10/23/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 23,
+    "Weekday": "Sat",
+    "Traffic": 100978,
+    "Orders": 6829,
+    "Sales": 251398
+  },
+  "10/24/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 24,
+    "Weekday": "Sun",
+    "Traffic": 149744,
+    "Orders": 8764,
+    "Sales": 309266
+  },
+  "10/25/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 25,
+    "Weekday": "Mon",
+    "Traffic": 178309,
+    "Orders": 10763,
+    "Sales": 373741
+  },
+  "10/26/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 26,
+    "Weekday": "Tue",
+    "Traffic": 189472,
+    "Orders": 11806,
+    "Sales": 403308
+  },
+  "10/27/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 27,
+    "Weekday": "Wed",
+    "Traffic": 147500,
+    "Orders": 10907,
+    "Sales": 374130
+  },
+  "10/28/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 28,
+    "Weekday": "Thu",
+    "Traffic": 137041,
+    "Orders": 9888,
+    "Sales": 341511
+  },
+  "10/29/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 29,
+    "Weekday": "Fri",
+    "Traffic": 112347,
+    "Orders": 8479,
+    "Sales": 304373
+  },
+  "10/30/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 30,
+    "Weekday": "Sat",
+    "Traffic": 91657,
+    "Orders": 6783,
+    "Sales": 265075
+  },
+  "10/31/2022": {
+    "Year": 2022,
+    "Month": "Oct",
+    "Day": 31,
+    "Weekday": "Sun",
+    "Traffic": 84192,
+    "Orders": 7603,
+    "Sales": 285626
+  },
+  "11/1/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 1,
+    "Weekday": "Mon",
+    "Traffic": 131214,
+    "Orders": 11168,
+    "Sales": 385356
+  },
+  "11/2/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 2,
+    "Weekday": "Tue",
+    "Traffic": 127169,
+    "Orders": 10463,
+    "Sales": 360739
+  },
+  "11/3/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 3,
+    "Weekday": "Wed",
+    "Traffic": 140668,
+    "Orders": 11709,
+    "Sales": 407026
+  },
+  "11/4/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 4,
+    "Weekday": "Thu",
+    "Traffic": 127118,
+    "Orders": 9907,
+    "Sales": 348485
+  },
+  "11/5/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 5,
+    "Weekday": "Fri",
+    "Traffic": 126288,
+    "Orders": 9232,
+    "Sales": 338149
+  },
+  "11/6/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 6,
+    "Weekday": "Sat",
+    "Traffic": 103783,
+    "Orders": 7116,
+    "Sales": 277799
+  },
+  "11/7/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 7,
+    "Weekday": "Sun",
+    "Traffic": 223742,
+    "Orders": 9486,
+    "Sales": 353715
+  },
+  "11/8/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 8,
+    "Weekday": "Mon",
+    "Traffic": 206357,
+    "Orders": 11585,
+    "Sales": 408510
+  },
+  "11/9/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 9,
+    "Weekday": "Tue",
+    "Traffic": 156962,
+    "Orders": 10976,
+    "Sales": 388792
+  },
+  "11/10/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 10,
+    "Weekday": "Wed",
+    "Traffic": 153362,
+    "Orders": 11187,
+    "Sales": 419610
+  },
+  "11/11/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 11,
+    "Weekday": "Thu",
+    "Traffic": 133703,
+    "Orders": 10645,
+    "Sales": 394551
+  },
+  "11/12/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 12,
+    "Weekday": "Fri",
+    "Traffic": 152481,
+    "Orders": 8332,
+    "Sales": 312414
+  },
+  "11/13/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 13,
+    "Weekday": "Sat",
+    "Traffic": 120545,
+    "Orders": 8482,
+    "Sales": 326013
+  },
+  "11/14/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 14,
+    "Weekday": "Sun",
+    "Traffic": 123178,
+    "Orders": 10441,
+    "Sales": 386144
+  },
+  "11/15/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 15,
+    "Weekday": "Mon",
+    "Traffic": 192742,
+    "Orders": 13178,
+    "Sales": 466256
+  },
+  "11/16/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 16,
+    "Weekday": "Tue",
+    "Traffic": 159793,
+    "Orders": 12418,
+    "Sales": 452556
+  },
+  "11/17/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 17,
+    "Weekday": "Wed",
+    "Traffic": 240371,
+    "Orders": 12878,
+    "Sales": 472563
+  },
+  "11/18/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 18,
+    "Weekday": "Thu",
+    "Traffic": 179430,
+    "Orders": 11629,
+    "Sales": 422916
+  },
+  "11/19/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 19,
+    "Weekday": "Fri",
+    "Traffic": 159697,
+    "Orders": 10823,
+    "Sales": 400604
+  },
+  "11/20/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 20,
+    "Weekday": "Sat",
+    "Traffic": 108981,
+    "Orders": 7507,
+    "Sales": 301628
+  },
+  "11/21/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 21,
+    "Weekday": "Sun",
+    "Traffic": 128443,
+    "Orders": 9976,
+    "Sales": 375287
+  },
+  "11/22/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 22,
+    "Weekday": "Mon",
+    "Traffic": 151942,
+    "Orders": 10827,
+    "Sales": 384578
+  },
+  "11/23/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 23,
+    "Weekday": "Tue",
+    "Traffic": 158737,
+    "Orders": 11276,
+    "Sales": 482773
+  },
+  "11/24/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 24,
+    "Weekday": "Wed",
+    "Traffic": 183900,
+    "Orders": 10629,
+    "Sales": 520302
+  },
+  "11/25/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 25,
+    "Weekday": "Thu",
+    "Traffic": 242863,
+    "Orders": 10101,
+    "Sales": 411292
+  },
+  "11/26/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 26,
+    "Weekday": "Fri",
+    "Traffic": 265866,
+    "Orders": 19568,
+    "Sales": 755161
+  },
+  "11/27/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 27,
+    "Weekday": "Sat",
+    "Traffic": 247688,
+    "Orders": 13986,
+    "Sales": 528740
+  },
+  "11/28/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 28,
+    "Weekday": "Sun",
+    "Traffic": 247129,
+    "Orders": 17841,
+    "Sales": 566126
+  },
+  "11/29/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 29,
+    "Weekday": "Mon",
+    "Traffic": 489616,
+    "Orders": 38792,
+    "Sales": 1913873
+  },
+  "11/30/2022": {
+    "Year": 2022,
+    "Month": "Nov",
+    "Day": 30,
+    "Weekday": "Tue",
+    "Traffic": 243299,
+    "Orders": 15277,
+    "Sales": 587840
+  },
+  "12/1/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 1,
+    "Weekday": "Wed",
+    "Traffic": 184386,
+    "Orders": 11939,
+    "Sales": 475345
+  },
+  "12/2/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 2,
+    "Weekday": "Thu",
+    "Traffic": 187123,
+    "Orders": 12872,
+    "Sales": 491807
+  },
+  "12/3/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 3,
+    "Weekday": "Fri",
+    "Traffic": 167652,
+    "Orders": 11379,
+    "Sales": 428278
+  },
+  "12/4/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 4,
+    "Weekday": "Sat",
+    "Traffic": 142638,
+    "Orders": 8625,
+    "Sales": 357209
+  },
+  "12/5/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 5,
+    "Weekday": "Sun",
+    "Traffic": 146201,
+    "Orders": 10142,
+    "Sales": 396602
+  },
+  "12/6/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 6,
+    "Weekday": "Mon",
+    "Traffic": 195270,
+    "Orders": 14008,
+    "Sales": 526871
+  },
+  "12/7/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 7,
+    "Weekday": "Tue",
+    "Traffic": 174624,
+    "Orders": 13514,
+    "Sales": 484659
+  },
+  "12/8/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 8,
+    "Weekday": "Wed",
+    "Traffic": 276744,
+    "Orders": 13254,
+    "Sales": 488891
+  },
+  "12/9/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 9,
+    "Weekday": "Thu",
+    "Traffic": 241160,
+    "Orders": 13378,
+    "Sales": 477207
+  },
+  "12/10/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 10,
+    "Weekday": "Fri",
+    "Traffic": 147331,
+    "Orders": 12373,
+    "Sales": 443222
+  },
+  "12/11/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 11,
+    "Weekday": "Sat",
+    "Traffic": 113280,
+    "Orders": 7718,
+    "Sales": 298041
+  },
+  "12/12/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 12,
+    "Weekday": "Sun",
+    "Traffic": 205718,
+    "Orders": 10082,
+    "Sales": 367064
+  },
+  "12/13/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 13,
+    "Weekday": "Mon",
+    "Traffic": 206387,
+    "Orders": 15370,
+    "Sales": 533001
+  },
+  "12/14/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 14,
+    "Weekday": "Tue",
+    "Traffic": 153685,
+    "Orders": 13045,
+    "Sales": 460308
+  },
+  "12/15/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 15,
+    "Weekday": "Wed",
+    "Traffic": 201838,
+    "Orders": 12146,
+    "Sales": 423798
+  },
+  "12/16/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 16,
+    "Weekday": "Thu",
+    "Traffic": 126646,
+    "Orders": 10806,
+    "Sales": 364099
+  },
+  "12/17/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 17,
+    "Weekday": "Fri",
+    "Traffic": 142971,
+    "Orders": 11677,
+    "Sales": 410090
+  },
+  "12/18/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 18,
+    "Weekday": "Sat",
+    "Traffic": 91526,
+    "Orders": 5842,
+    "Sales": 210294
+  },
+  "12/19/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 19,
+    "Weekday": "Sun",
+    "Traffic": 85446,
+    "Orders": 6385,
+    "Sales": 210470
+  },
+  "12/20/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 20,
+    "Weekday": "Mon",
+    "Traffic": 104129,
+    "Orders": 7751,
+    "Sales": 226334
+  },
+  "12/21/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 21,
+    "Weekday": "Tue",
+    "Traffic": 108027,
+    "Orders": 6556,
+    "Sales": 205624
+  },
+  "12/22/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 22,
+    "Weekday": "Wed",
+    "Traffic": 101341,
+    "Orders": 5457,
+    "Sales": 177807
+  },
+  "12/23/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 23,
+    "Weekday": "Thu",
+    "Traffic": 73240,
+    "Orders": 3958,
+    "Sales": 132549
+  },
+  "12/24/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 24,
+    "Weekday": "Fri",
+    "Traffic": 64119,
+    "Orders": 2822,
+    "Sales": 97242
+  },
+  "12/25/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 25,
+    "Weekday": "Sat",
+    "Traffic": 47944,
+    "Orders": 1843,
+    "Sales": 59395
+  },
+  "12/26/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 26,
+    "Weekday": "Sun",
+    "Traffic": 111516,
+    "Orders": 6281,
+    "Sales": 197405
+  },
+  "12/27/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 27,
+    "Weekday": "Mon",
+    "Traffic": 106513,
+    "Orders": 8495,
+    "Sales": 244325
+  },
+  "12/28/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 28,
+    "Weekday": "Tue",
+    "Traffic": 116342,
+    "Orders": 9280,
+    "Sales": 277773
+  },
+  "12/29/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 29,
+    "Weekday": "Wed",
+    "Traffic": 95471,
+    "Orders": 8175,
+    "Sales": 244813
+  },
+  "12/30/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 30,
+    "Weekday": "Thu",
+    "Traffic": 114922,
+    "Orders": 8736,
+    "Sales": 273093
+  },
+  "12/31/2022": {
+    "Year": 2022,
+    "Month": "Dec",
+    "Day": 31,
+    "Weekday": "Fri",
+    "Traffic": 77053,
+    "Orders": 5779,
+    "Sales": 200630
+  },
+  "1/1/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 1,
+    "Weekday": "Sat",
+    "Traffic": 73909,
+    "Orders": 4533,
+    "Sales": 152551
+  },
+  "1/2/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 2,
+    "Weekday": "Sun",
+    "Traffic": 105044,
+    "Orders": 6931,
+    "Sales": 225247
+  },
+  "1/3/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 3,
+    "Weekday": "Mon",
+    "Traffic": 108852,
+    "Orders": 7893,
+    "Sales": 243930
+  },
+  "1/4/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 4,
+    "Weekday": "Tue",
+    "Traffic": 97315,
+    "Orders": 7716,
+    "Sales": 231133
+  },
+  "1/5/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 5,
+    "Weekday": "Wed",
+    "Traffic": 104893,
+    "Orders": 8396,
+    "Sales": 253238
+  },
+  "1/6/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 6,
+    "Weekday": "Thu",
+    "Traffic": 96378,
+    "Orders": 7893,
+    "Sales": 247227
+  },
+  "1/7/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 7,
+    "Weekday": "Fri",
+    "Traffic": 108870,
+    "Orders": 7499,
+    "Sales": 250438
+  },
+  "1/8/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 8,
+    "Weekday": "Sat",
+    "Traffic": 83368,
+    "Orders": 6139,
+    "Sales": 214567
+  },
+  "1/9/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 9,
+    "Weekday": "Sun",
+    "Traffic": 120986,
+    "Orders": 8810,
+    "Sales": 280724
+  },
+  "1/10/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 10,
+    "Weekday": "Mon",
+    "Traffic": 118885,
+    "Orders": 9223,
+    "Sales": 280832
+  },
+  "1/11/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 11,
+    "Weekday": "Tue",
+    "Traffic": 101944,
+    "Orders": 8424,
+    "Sales": 247936
+  },
+  "1/12/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 12,
+    "Weekday": "Wed",
+    "Traffic": 115929,
+    "Orders": 9239,
+    "Sales": 291564
+  },
+  "1/13/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 13,
+    "Weekday": "Thu",
+    "Traffic": 124933,
+    "Orders": 9618,
+    "Sales": 300399
+  },
+  "1/14/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 14,
+    "Weekday": "Fri",
+    "Traffic": 115076,
+    "Orders": 8562,
+    "Sales": 284853
+  },
+  "1/15/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 15,
+    "Weekday": "Sat",
+    "Traffic": 97810,
+    "Orders": 7097,
+    "Sales": 244183
+  },
+  "1/16/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 16,
+    "Weekday": "Sun",
+    "Traffic": 175930,
+    "Orders": 7858,
+    "Sales": 267728
+  },
+  "1/17/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 17,
+    "Weekday": "Mon",
+    "Traffic": 192205,
+    "Orders": 10526,
+    "Sales": 327515
+  },
+  "1/18/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 18,
+    "Weekday": "Tue",
+    "Traffic": 141027,
+    "Orders": 9679,
+    "Sales": 305761
+  },
+  "1/19/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 19,
+    "Weekday": "Wed",
+    "Traffic": 131002,
+    "Orders": 9462,
+    "Sales": 305687
+  },
+  "1/20/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 20,
+    "Weekday": "Thu",
+    "Traffic": 116815,
+    "Orders": 9441,
+    "Sales": 303266
+  },
+  "1/21/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 21,
+    "Weekday": "Fri",
+    "Traffic": 111853,
+    "Orders": 8800,
+    "Sales": 299379
+  },
+  "1/22/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 22,
+    "Weekday": "Sat",
+    "Traffic": 104522,
+    "Orders": 7919,
+    "Sales": 286247
+  },
+  "1/23/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 23,
+    "Weekday": "Sun",
+    "Traffic": 105073,
+    "Orders": 9369,
+    "Sales": 313986
+  },
+  "1/24/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 24,
+    "Weekday": "Mon",
+    "Traffic": 128395,
+    "Orders": 10777,
+    "Sales": 338316
+  },
+  "1/25/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 25,
+    "Weekday": "Tue",
+    "Traffic": 121894,
+    "Orders": 10312,
+    "Sales": 326745
+  },
+  "1/26/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 26,
+    "Weekday": "Wed",
+    "Traffic": 160250,
+    "Orders": 10835,
+    "Sales": 361312
+  },
+  "1/27/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 27,
+    "Weekday": "Thu",
+    "Traffic": 131050,
+    "Orders": 9667,
+    "Sales": 329139
+  },
+  "1/28/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 28,
+    "Weekday": "Fri",
+    "Traffic": 106055,
+    "Orders": 8070,
+    "Sales": 280065
+  },
+  "1/29/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 29,
+    "Weekday": "Sat",
+    "Traffic": 99313,
+    "Orders": 7268,
+    "Sales": 262489
+  },
+  "1/30/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 30,
+    "Weekday": "Sun",
+    "Traffic": 100609,
+    "Orders": 8406,
+    "Sales": 282483
+  },
+  "1/31/2023": {
+    "Year": 2023,
+    "Month": "Jan",
+    "Day": 31,
+    "Weekday": "Mon",
+    "Traffic": 123486,
+    "Orders": 10073,
+    "Sales": 331408
+  },
+  "2/1/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 1,
+    "Weekday": "Tue",
+    "Traffic": 115074,
+    "Orders": 9879,
+    "Sales": 335632
+  },
+  "2/2/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 2,
+    "Weekday": "Wed",
+    "Traffic": 129057,
+    "Orders": 9878,
+    "Sales": 336583
+  },
+  "2/3/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 3,
+    "Weekday": "Thu",
+    "Traffic": 157219,
+    "Orders": 10294,
+    "Sales": 342914
+  },
+  "2/4/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 4,
+    "Weekday": "Fri",
+    "Traffic": 113727,
+    "Orders": 8843,
+    "Sales": 322208
+  },
+  "2/5/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 5,
+    "Weekday": "Sat",
+    "Traffic": 98999,
+    "Orders": 7531,
+    "Sales": 268696
+  },
+  "2/6/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 6,
+    "Weekday": "Sun",
+    "Traffic": 98317,
+    "Orders": 8528,
+    "Sales": 294168
+  },
+  "2/7/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 7,
+    "Weekday": "Mon",
+    "Traffic": 133776,
+    "Orders": 11112,
+    "Sales": 352660
+  },
+  "2/8/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 8,
+    "Weekday": "Tue",
+    "Traffic": 127121,
+    "Orders": 10388,
+    "Sales": 325294
+  },
+  "2/9/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 9,
+    "Weekday": "Wed",
+    "Traffic": 135381,
+    "Orders": 10872,
+    "Sales": 344317
+  },
+  "2/10/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 10,
+    "Weekday": "Thu",
+    "Traffic": 144817,
+    "Orders": 11348,
+    "Sales": 390074
+  },
+  "2/11/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 11,
+    "Weekday": "Fri",
+    "Traffic": 108324,
+    "Orders": 8285,
+    "Sales": 288535
+  },
+  "2/12/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 12,
+    "Weekday": "Sat",
+    "Traffic": 92005,
+    "Orders": 6866,
+    "Sales": 248249
+  },
+  "2/13/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 13,
+    "Weekday": "Sun",
+    "Traffic": 121754,
+    "Orders": 8253,
+    "Sales": 282239
+  },
+  "2/14/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 14,
+    "Weekday": "Mon",
+    "Traffic": 183962,
+    "Orders": 11690,
+    "Sales": 381678
+  },
+  "2/15/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 15,
+    "Weekday": "Tue",
+    "Traffic": 202101,
+    "Orders": 11953,
+    "Sales": 397245
+  },
+  "2/16/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 16,
+    "Weekday": "Wed",
+    "Traffic": 134409,
+    "Orders": 10047,
+    "Sales": 332044
+  },
+  "2/17/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 17,
+    "Weekday": "Thu",
+    "Traffic": 172167,
+    "Orders": 11391,
+    "Sales": 376265
+  },
+  "2/18/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 18,
+    "Weekday": "Fri",
+    "Traffic": 140225,
+    "Orders": 11833,
+    "Sales": 377285
+  },
+  "2/19/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 19,
+    "Weekday": "Sat",
+    "Traffic": 117935,
+    "Orders": 10094,
+    "Sales": 328234
+  },
+  "2/20/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 20,
+    "Weekday": "Sun",
+    "Traffic": 114113,
+    "Orders": 10516,
+    "Sales": 338711
+  },
+  "2/21/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 21,
+    "Weekday": "Mon",
+    "Traffic": 157753,
+    "Orders": 19524,
+    "Sales": 572792
+  },
+  "2/22/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 22,
+    "Weekday": "Tue",
+    "Traffic": 149322,
+    "Orders": 11408,
+    "Sales": 356955
+  },
+  "2/23/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 23,
+    "Weekday": "Wed",
+    "Traffic": 134607,
+    "Orders": 9963,
+    "Sales": 323962
+  },
+  "2/24/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 24,
+    "Weekday": "Thu",
+    "Traffic": 126384,
+    "Orders": 9876,
+    "Sales": 323616
+  },
+  "2/25/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 25,
+    "Weekday": "Fri",
+    "Traffic": 116056,
+    "Orders": 8712,
+    "Sales": 305879
+  },
+  "2/26/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 26,
+    "Weekday": "Sat",
+    "Traffic": 114636,
+    "Orders": 8135,
+    "Sales": 312322
+  },
+  "2/27/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 27,
+    "Weekday": "Sun",
+    "Traffic": 108693,
+    "Orders": 9027,
+    "Sales": 309356
+  },
+  "2/28/2023": {
+    "Year": 2023,
+    "Month": "Feb",
+    "Day": 28,
+    "Weekday": "Mon",
+    "Traffic": 135549,
+    "Orders": 10631,
+    "Sales": 345114
+  },
+  "3/1/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 1,
+    "Weekday": "Tue",
+    "Traffic": 163173,
+    "Orders": 10433,
+    "Sales": 351378
+  },
+  "3/2/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 2,
+    "Weekday": "Wed",
+    "Traffic": 182645,
+    "Orders": 11072,
+    "Sales": 379164
+  },
+  "3/3/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 3,
+    "Weekday": "Thu",
+    "Traffic": 132824,
+    "Orders": 10715,
+    "Sales": 350715
+  },
+  "3/4/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 4,
+    "Weekday": "Fri",
+    "Traffic": 117471,
+    "Orders": 9315,
+    "Sales": 320665
+  },
+  "3/5/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 5,
+    "Weekday": "Sat",
+    "Traffic": 104499,
+    "Orders": 7955,
+    "Sales": 285582
+  },
+  "3/6/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 6,
+    "Weekday": "Sun",
+    "Traffic": 101874,
+    "Orders": 9298,
+    "Sales": 325160
+  },
+  "3/7/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 7,
+    "Weekday": "Mon",
+    "Traffic": 155211,
+    "Orders": 12466,
+    "Sales": 401206
+  },
+  "3/8/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 8,
+    "Weekday": "Tue",
+    "Traffic": 150496,
+    "Orders": 11877,
+    "Sales": 380530
+  },
+  "3/9/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 9,
+    "Weekday": "Wed",
+    "Traffic": 139000,
+    "Orders": 11349,
+    "Sales": 383857
+  },
+  "3/10/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 10,
+    "Weekday": "Thu",
+    "Traffic": 130526,
+    "Orders": 10340,
+    "Sales": 339441
+  },
+  "3/11/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 11,
+    "Weekday": "Fri",
+    "Traffic": 115147,
+    "Orders": 9229,
+    "Sales": 329625
+  },
+  "3/12/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 12,
+    "Weekday": "Sat",
+    "Traffic": 111206,
+    "Orders": 7934,
+    "Sales": 289911
+  },
+  "3/13/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 13,
+    "Weekday": "Sun",
+    "Traffic": 165377,
+    "Orders": 10418,
+    "Sales": 370117
+  },
+  "3/14/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 14,
+    "Weekday": "Mon",
+    "Traffic": 176062,
+    "Orders": 11496,
+    "Sales": 387187
+  },
+  "3/15/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 15,
+    "Weekday": "Tue",
+    "Traffic": 139560,
+    "Orders": 11252,
+    "Sales": 383227
+  },
+  "3/16/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 16,
+    "Weekday": "Wed",
+    "Traffic": 127102,
+    "Orders": 10513,
+    "Sales": 368717
+  },
+  "3/17/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 17,
+    "Weekday": "Thu",
+    "Traffic": 137758,
+    "Orders": 11213,
+    "Sales": 395333
+  },
+  "3/18/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 18,
+    "Weekday": "Fri",
+    "Traffic": 119726,
+    "Orders": 9650,
+    "Sales": 344815
+  },
+  "3/19/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 19,
+    "Weekday": "Sat",
+    "Traffic": 101753,
+    "Orders": 7131,
+    "Sales": 271871
+  },
+  "3/20/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 20,
+    "Weekday": "Sun",
+    "Traffic": 115059,
+    "Orders": 9928,
+    "Sales": 353174
+  },
+  "3/21/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 21,
+    "Weekday": "Mon",
+    "Traffic": 169998,
+    "Orders": 13321,
+    "Sales": 428886
+  },
+  "3/22/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 22,
+    "Weekday": "Tue",
+    "Traffic": 157090,
+    "Orders": 13092,
+    "Sales": 427947
+  },
+  "3/23/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 23,
+    "Weekday": "Wed",
+    "Traffic": 141161,
+    "Orders": 11781,
+    "Sales": 399120
+  },
+  "3/24/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 24,
+    "Weekday": "Thu",
+    "Traffic": 118718,
+    "Orders": 9907,
+    "Sales": 340766
+  },
+  "3/25/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 25,
+    "Weekday": "Fri",
+    "Traffic": 164633,
+    "Orders": 14210,
+    "Sales": 445500
+  },
+  "3/26/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 26,
+    "Weekday": "Sat",
+    "Traffic": 158365,
+    "Orders": 10301,
+    "Sales": 366648
+  },
+  "3/27/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 27,
+    "Weekday": "Sun",
+    "Traffic": 136842,
+    "Orders": 11871,
+    "Sales": 393828
+  },
+  "3/28/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 28,
+    "Weekday": "Mon",
+    "Traffic": 179121,
+    "Orders": 20247,
+    "Sales": 605097
+  },
+  "3/29/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 29,
+    "Weekday": "Tue",
+    "Traffic": 148277,
+    "Orders": 11376,
+    "Sales": 397106
+  },
+  "3/30/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 30,
+    "Weekday": "Wed",
+    "Traffic": 154084,
+    "Orders": 9350,
+    "Sales": 329571
+  },
+  "3/31/2023": {
+    "Year": 2023,
+    "Month": "Mar",
+    "Day": 31,
+    "Weekday": "Thu",
+    "Traffic": 126868,
+    "Orders": 9450,
+    "Sales": 354228
+  },
+  "4/1/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 1,
+    "Weekday": "Fri",
+    "Traffic": 107161,
+    "Orders": 8004,
+    "Sales": 300887
+  },
+  "4/2/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 2,
+    "Weekday": "Sat",
+    "Traffic": 85357,
+    "Orders": 5995,
+    "Sales": 227251
+  },
+  "4/3/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 3,
+    "Weekday": "Sun",
+    "Traffic": 90238,
+    "Orders": 7558,
+    "Sales": 269696
+  },
+  "4/4/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 4,
+    "Weekday": "Mon",
+    "Traffic": 131144,
+    "Orders": 11122,
+    "Sales": 392464
+  },
+  "4/5/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 5,
+    "Weekday": "Tue",
+    "Traffic": 139677,
+    "Orders": 12495,
+    "Sales": 379626
+  },
+  "4/6/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 6,
+    "Weekday": "Wed",
+    "Traffic": 126128,
+    "Orders": 10531,
+    "Sales": 370802
+  },
+  "4/7/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 7,
+    "Weekday": "Thu",
+    "Traffic": 123462,
+    "Orders": 9864,
+    "Sales": 343254
+  },
+  "4/8/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 8,
+    "Weekday": "Fri",
+    "Traffic": 119238,
+    "Orders": 8496,
+    "Sales": 300124
+  },
+  "4/9/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 9,
+    "Weekday": "Sat",
+    "Traffic": 94100,
+    "Orders": 6392,
+    "Sales": 243861
+  },
+  "4/10/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 10,
+    "Weekday": "Sun",
+    "Traffic": 149451,
+    "Orders": 8353,
+    "Sales": 291481
+  },
+  "4/11/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 11,
+    "Weekday": "Mon",
+    "Traffic": 173703,
+    "Orders": 10055,
+    "Sales": 333442
+  },
+  "4/12/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 12,
+    "Weekday": "Tue",
+    "Traffic": 152002,
+    "Orders": 10549,
+    "Sales": 347751
+  },
+  "4/13/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 13,
+    "Weekday": "Wed",
+    "Traffic": 145493,
+    "Orders": 10434,
+    "Sales": 352321
+  },
+  "4/14/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 14,
+    "Weekday": "Thu",
+    "Traffic": 124289,
+    "Orders": 9646,
+    "Sales": 335000
+  },
+  "4/15/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 15,
+    "Weekday": "Fri",
+    "Traffic": 153096,
+    "Orders": 14866,
+    "Sales": 439385
+  },
+  "4/16/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 16,
+    "Weekday": "Sat",
+    "Traffic": 121094,
+    "Orders": 11228,
+    "Sales": 339962
+  },
+  "4/17/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 17,
+    "Weekday": "Sun",
+    "Traffic": 134526,
+    "Orders": 11808,
+    "Sales": 356208
+  },
+  "4/18/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 18,
+    "Weekday": "Mon",
+    "Traffic": 202644,
+    "Orders": 19357,
+    "Sales": 550132
+  },
+  "4/19/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 19,
+    "Weekday": "Tue",
+    "Traffic": 165253,
+    "Orders": 11327,
+    "Sales": 358971
+  },
+  "4/20/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 20,
+    "Weekday": "Wed",
+    "Traffic": 139831,
+    "Orders": 9787,
+    "Sales": 316488
+  },
+  "4/21/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 21,
+    "Weekday": "Thu",
+    "Traffic": 119153,
+    "Orders": 8656,
+    "Sales": 279932
+  },
+  "4/22/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 22,
+    "Weekday": "Fri",
+    "Traffic": 105566,
+    "Orders": 7431,
+    "Sales": 252920
+  },
+  "4/23/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 23,
+    "Weekday": "Sat",
+    "Traffic": 88875,
+    "Orders": 5007,
+    "Sales": 179836
+  },
+  "4/24/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 24,
+    "Weekday": "Sun",
+    "Traffic": 90361,
+    "Orders": 5507,
+    "Sales": 181107
+  },
+  "4/25/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 25,
+    "Weekday": "Mon",
+    "Traffic": 134178,
+    "Orders": 10276,
+    "Sales": 333819
+  },
+  "4/26/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 26,
+    "Weekday": "Tue",
+    "Traffic": 127288,
+    "Orders": 9949,
+    "Sales": 320153
+  },
+  "4/27/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 27,
+    "Weekday": "Wed",
+    "Traffic": 126803,
+    "Orders": 9805,
+    "Sales": 323297
+  },
+  "4/28/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 28,
+    "Weekday": "Thu",
+    "Traffic": 161457,
+    "Orders": 12114,
+    "Sales": 379848
+  },
+  "4/29/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 29,
+    "Weekday": "Fri",
+    "Traffic": 116977,
+    "Orders": 8877,
+    "Sales": 298848
+  },
+  "4/30/2023": {
+    "Year": 2023,
+    "Month": "Apr",
+    "Day": 30,
+    "Weekday": "Sat",
+    "Traffic": 95206,
+    "Orders": 6749,
+    "Sales": 239203
+  },
+  "5/1/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 1,
+    "Weekday": "Sun",
+    "Traffic": 97686,
+    "Orders": 8431,
+    "Sales": 284959
+  },
+  "5/2/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 2,
+    "Weekday": "Mon",
+    "Traffic": 143361,
+    "Orders": 11171,
+    "Sales": 357685
+  },
+  "5/3/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 3,
+    "Weekday": "Tue",
+    "Traffic": 134476,
+    "Orders": 10293,
+    "Sales": 344114
+  },
+  "5/4/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 4,
+    "Weekday": "Wed",
+    "Traffic": 124891,
+    "Orders": 10257,
+    "Sales": 333048
+  },
+  "5/5/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 5,
+    "Weekday": "Thu",
+    "Traffic": 108482,
+    "Orders": 9031,
+    "Sales": 299899
+  },
+  "5/6/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 6,
+    "Weekday": "Fri",
+    "Traffic": 107671,
+    "Orders": 7808,
+    "Sales": 260694
+  },
+  "5/7/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 7,
+    "Weekday": "Sat",
+    "Traffic": 81515,
+    "Orders": 5475,
+    "Sales": 203235
+  },
+  "5/8/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 8,
+    "Weekday": "Sun",
+    "Traffic": 118430,
+    "Orders": 6187,
+    "Sales": 214073
+  },
+  "5/9/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 9,
+    "Weekday": "Mon",
+    "Traffic": 158015,
+    "Orders": 9700,
+    "Sales": 308573
+  },
+  "5/10/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 10,
+    "Weekday": "Tue",
+    "Traffic": 122181,
+    "Orders": 9181,
+    "Sales": 294694
+  },
+  "5/11/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 11,
+    "Weekday": "Wed",
+    "Traffic": 122638,
+    "Orders": 9488,
+    "Sales": 321000
+  },
+  "5/12/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 12,
+    "Weekday": "Thu",
+    "Traffic": 123110,
+    "Orders": 9449,
+    "Sales": 307514
+  },
+  "5/13/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 13,
+    "Weekday": "Fri",
+    "Traffic": 112264,
+    "Orders": 8450,
+    "Sales": 293180
+  },
+  "5/14/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 14,
+    "Weekday": "Sat",
+    "Traffic": 103786,
+    "Orders": 7219,
+    "Sales": 257540
+  },
+  "5/15/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 15,
+    "Weekday": "Sun",
+    "Traffic": 99621,
+    "Orders": 8223,
+    "Sales": 276145
+  },
+  "5/16/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 16,
+    "Weekday": "Mon",
+    "Traffic": 130603,
+    "Orders": 10692,
+    "Sales": 339196
+  },
+  "5/17/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 17,
+    "Weekday": "Tue",
+    "Traffic": 128634,
+    "Orders": 10493,
+    "Sales": 333046
+  },
+  "5/18/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 18,
+    "Weekday": "Wed",
+    "Traffic": 130430,
+    "Orders": 10710,
+    "Sales": 341428
+  },
+  "5/19/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 19,
+    "Weekday": "Thu",
+    "Traffic": 136659,
+    "Orders": 9833,
+    "Sales": 321592
+  },
+  "5/20/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 20,
+    "Weekday": "Fri",
+    "Traffic": 150488,
+    "Orders": 8479,
+    "Sales": 271399
+  },
+  "5/21/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 21,
+    "Weekday": "Sat",
+    "Traffic": 114562,
+    "Orders": 6828,
+    "Sales": 225635
+  },
+  "5/22/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 22,
+    "Weekday": "Sun",
+    "Traffic": 107797,
+    "Orders": 7640,
+    "Sales": 245810
+  },
+  "5/23/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 23,
+    "Weekday": "Mon",
+    "Traffic": 161413,
+    "Orders": 10546,
+    "Sales": 322871
+  },
+  "5/24/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 24,
+    "Weekday": "Tue",
+    "Traffic": 165092,
+    "Orders": 9564,
+    "Sales": 295562
+  },
+  "5/25/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 25,
+    "Weekday": "Wed",
+    "Traffic": 120239,
+    "Orders": 8757,
+    "Sales": 276540
+  },
+  "5/26/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 26,
+    "Weekday": "Thu",
+    "Traffic": 146662,
+    "Orders": 13180,
+    "Sales": 369263
+  },
+  "5/27/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 27,
+    "Weekday": "Fri",
+    "Traffic": 98132,
+    "Orders": 9343,
+    "Sales": 270665
+  },
+  "5/28/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 28,
+    "Weekday": "Sat",
+    "Traffic": 95356,
+    "Orders": 8823,
+    "Sales": 268769
+  },
+  "5/29/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 29,
+    "Weekday": "Sun",
+    "Traffic": 91023,
+    "Orders": 9200,
+    "Sales": 262259
+  },
+  "5/30/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 30,
+    "Weekday": "Mon",
+    "Traffic": 117551,
+    "Orders": 16366,
+    "Sales": 444346
+  },
+  "5/31/2023": {
+    "Year": 2023,
+    "Month": "May",
+    "Day": 31,
+    "Weekday": "Tue",
+    "Traffic": 124408,
+    "Orders": 11395,
+    "Sales": 325240
+  },
+  "6/1/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 1,
+    "Weekday": "Wed",
+    "Traffic": 114550,
+    "Orders": 9138,
+    "Sales": 278106
+  },
+  "6/2/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 2,
+    "Weekday": "Thu",
+    "Traffic": 108119,
+    "Orders": 8565,
+    "Sales": 258635
+  },
+  "6/3/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 3,
+    "Weekday": "Fri",
+    "Traffic": 143628,
+    "Orders": 6861,
+    "Sales": 223675
+  },
+  "6/4/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 4,
+    "Weekday": "Sat",
+    "Traffic": 118731,
+    "Orders": 5210,
+    "Sales": 177889
+  },
+  "6/5/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 5,
+    "Weekday": "Sun",
+    "Traffic": 133711,
+    "Orders": 6816,
+    "Sales": 219091
+  },
+  "6/6/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 6,
+    "Weekday": "Mon",
+    "Traffic": 167016,
+    "Orders": 9062,
+    "Sales": 273455
+  },
+  "6/7/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 7,
+    "Weekday": "Tue",
+    "Traffic": 112878,
+    "Orders": 9031,
+    "Sales": 274056
+  },
+  "6/8/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 8,
+    "Weekday": "Wed",
+    "Traffic": 115213,
+    "Orders": 9489,
+    "Sales": 293434
+  },
+  "6/9/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 9,
+    "Weekday": "Thu",
+    "Traffic": 106319,
+    "Orders": 8579,
+    "Sales": 269393
+  },
+  "6/10/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 10,
+    "Weekday": "Fri",
+    "Traffic": 108488,
+    "Orders": 8287,
+    "Sales": 268465
+  },
+  "6/11/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 11,
+    "Weekday": "Sat",
+    "Traffic": 82208,
+    "Orders": 5651,
+    "Sales": 191909
+  },
+  "6/12/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 12,
+    "Weekday": "Sun",
+    "Traffic": 83941,
+    "Orders": 6867,
+    "Sales": 222528
+  },
+  "6/13/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 13,
+    "Weekday": "Mon",
+    "Traffic": 117272,
+    "Orders": 10023,
+    "Sales": 299785
+  },
+  "6/14/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 14,
+    "Weekday": "Tue",
+    "Traffic": 123575,
+    "Orders": 9879,
+    "Sales": 299573
+  },
+  "6/15/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 15,
+    "Weekday": "Wed",
+    "Traffic": 124671,
+    "Orders": 9735,
+    "Sales": 302530
+  },
+  "6/16/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 16,
+    "Weekday": "Thu",
+    "Traffic": 112205,
+    "Orders": 9329,
+    "Sales": 288968
+  },
+  "6/17/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 17,
+    "Weekday": "Fri",
+    "Traffic": 125376,
+    "Orders": 13398,
+    "Sales": 372762
+  },
+  "6/18/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 18,
+    "Weekday": "Sat",
+    "Traffic": 107288,
+    "Orders": 9934,
+    "Sales": 276173
+  },
+  "6/19/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 19,
+    "Weekday": "Sun",
+    "Traffic": 107726,
+    "Orders": 11367,
+    "Sales": 318158
+  },
+  "6/20/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 20,
+    "Weekday": "Mon",
+    "Traffic": 146850,
+    "Orders": 17790,
+    "Sales": 483409
+  },
+  "6/21/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 21,
+    "Weekday": "Tue",
+    "Traffic": 123356,
+    "Orders": 10233,
+    "Sales": 308827
+  },
+  "6/22/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 22,
+    "Weekday": "Wed",
+    "Traffic": 109475,
+    "Orders": 8817,
+    "Sales": 270043
+  },
+  "6/23/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 23,
+    "Weekday": "Thu",
+    "Traffic": 111928,
+    "Orders": 9163,
+    "Sales": 291034
+  },
+  "6/24/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 24,
+    "Weekday": "Fri",
+    "Traffic": 92880,
+    "Orders": 7057,
+    "Sales": 220195
+  },
+  "6/25/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 25,
+    "Weekday": "Sat",
+    "Traffic": 68841,
+    "Orders": 4902,
+    "Sales": 163427
+  },
+  "6/26/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 26,
+    "Weekday": "Sun",
+    "Traffic": 85976,
+    "Orders": 6736,
+    "Sales": 211600
+  },
+  "6/27/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 27,
+    "Weekday": "Mon",
+    "Traffic": 120229,
+    "Orders": 9614,
+    "Sales": 286031
+  },
+  "6/28/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 28,
+    "Weekday": "Tue",
+    "Traffic": 108808,
+    "Orders": 9267,
+    "Sales": 274010
+  },
+  "6/29/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 29,
+    "Weekday": "Wed",
+    "Traffic": 107001,
+    "Orders": 9202,
+    "Sales": 262987
+  },
+  "6/30/2023": {
+    "Year": 2023,
+    "Month": "Jun",
+    "Day": 30,
+    "Weekday": "Thu",
+    "Traffic": 146002,
+    "Orders": 17121,
+    "Sales": 469531
+  },
+  "7/1/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 1,
+    "Weekday": "Fri",
+    "Traffic": 106970,
+    "Orders": 8497,
+    "Sales": 253944
+  },
+  "7/2/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 2,
+    "Weekday": "Sat",
+    "Traffic": 68086,
+    "Orders": 4667,
+    "Sales": 150461
+  },
+  "7/3/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 3,
+    "Weekday": "Sun",
+    "Traffic": 68075,
+    "Orders": 4673,
+    "Sales": 147644
+  },
+  "7/4/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 4,
+    "Weekday": "Mon",
+    "Traffic": 99682,
+    "Orders": 7117,
+    "Sales": 214527
+  },
+  "7/5/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 5,
+    "Weekday": "Tue",
+    "Traffic": 118581,
+    "Orders": 8941,
+    "Sales": 254323
+  },
+  "7/6/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 6,
+    "Weekday": "Wed",
+    "Traffic": 101476,
+    "Orders": 8495,
+    "Sales": 256551
+  },
+  "7/7/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 7,
+    "Weekday": "Thu",
+    "Traffic": 114123,
+    "Orders": 9252,
+    "Sales": 271861
+  },
+  "7/8/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 8,
+    "Weekday": "Fri",
+    "Traffic": 108660,
+    "Orders": 8036,
+    "Sales": 248369
+  },
+  "7/9/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 9,
+    "Weekday": "Sat",
+    "Traffic": 71022,
+    "Orders": 5142,
+    "Sales": 168299
+  },
+  "7/10/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 10,
+    "Weekday": "Sun",
+    "Traffic": 71688,
+    "Orders": 6311,
+    "Sales": 200589
+  },
+  "7/11/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 11,
+    "Weekday": "Mon",
+    "Traffic": 113824,
+    "Orders": 9684,
+    "Sales": 280966
+  },
+  "7/12/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 12,
+    "Weekday": "Tue",
+    "Traffic": 112345,
+    "Orders": 9608,
+    "Sales": 291927
+  },
+  "7/13/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 13,
+    "Weekday": "Wed",
+    "Traffic": 115205,
+    "Orders": 9610,
+    "Sales": 292065
+  },
+  "7/14/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 14,
+    "Weekday": "Thu",
+    "Traffic": 112766,
+    "Orders": 8890,
+    "Sales": 266581
+  },
+  "7/15/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 15,
+    "Weekday": "Fri",
+    "Traffic": 119475,
+    "Orders": 12244,
+    "Sales": 341287
+  },
+  "7/16/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 16,
+    "Weekday": "Sat",
+    "Traffic": 88180,
+    "Orders": 8912,
+    "Sales": 259284
+  },
+  "7/17/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 17,
+    "Weekday": "Sun",
+    "Traffic": 90532,
+    "Orders": 10109,
+    "Sales": 282473
+  },
+  "7/18/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 18,
+    "Weekday": "Mon",
+    "Traffic": 130067,
+    "Orders": 15867,
+    "Sales": 432725
+  },
+  "7/19/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 19,
+    "Weekday": "Tue",
+    "Traffic": 103236,
+    "Orders": 8911,
+    "Sales": 255654
+  },
+  "7/20/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 20,
+    "Weekday": "Wed",
+    "Traffic": 118570,
+    "Orders": 8496,
+    "Sales": 258382
+  },
+  "7/21/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 21,
+    "Weekday": "Thu",
+    "Traffic": 97453,
+    "Orders": 7666,
+    "Sales": 235469
+  },
+  "7/22/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 22,
+    "Weekday": "Fri",
+    "Traffic": 94441,
+    "Orders": 7014,
+    "Sales": 220819
+  },
+  "7/23/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 23,
+    "Weekday": "Sat",
+    "Traffic": 72802,
+    "Orders": 5056,
+    "Sales": 192235
+  },
+  "7/24/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 24,
+    "Weekday": "Sun",
+    "Traffic": 68372,
+    "Orders": 5978,
+    "Sales": 186567
+  },
+  "7/25/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 25,
+    "Weekday": "Mon",
+    "Traffic": 126951,
+    "Orders": 13012,
+    "Sales": 339959
+  },
+  "7/26/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 26,
+    "Weekday": "Tue",
+    "Traffic": 129673,
+    "Orders": 15477,
+    "Sales": 398901
+  },
+  "7/27/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 27,
+    "Weekday": "Wed",
+    "Traffic": 103483,
+    "Orders": 8559,
+    "Sales": 249377
+  },
+  "7/28/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 28,
+    "Weekday": "Thu",
+    "Traffic": 114090,
+    "Orders": 9266,
+    "Sales": 278017
+  },
+  "7/29/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 29,
+    "Weekday": "Fri",
+    "Traffic": 102210,
+    "Orders": 7922,
+    "Sales": 241557
+  },
+  "7/30/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 30,
+    "Weekday": "Sat",
+    "Traffic": 68317,
+    "Orders": 4981,
+    "Sales": 161734
+  },
+  "7/31/2023": {
+    "Year": 2023,
+    "Month": "Jul",
+    "Day": 31,
+    "Weekday": "Sun",
+    "Traffic": 70919,
+    "Orders": 6382,
+    "Sales": 193629
+  },
+  "8/1/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 1,
+    "Weekday": "Mon",
+    "Traffic": 102972,
+    "Orders": 8951,
+    "Sales": 258689
+  },
+  "8/2/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 2,
+    "Weekday": "Tue",
+    "Traffic": 135566,
+    "Orders": 10698,
+    "Sales": 310730
+  },
+  "8/3/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 3,
+    "Weekday": "Wed",
+    "Traffic": 111743,
+    "Orders": 9060,
+    "Sales": 269321
+  },
+  "8/4/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 4,
+    "Weekday": "Thu",
+    "Traffic": 102441,
+    "Orders": 8177,
+    "Sales": 243776
+  },
+  "8/5/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 5,
+    "Weekday": "Fri",
+    "Traffic": 92612,
+    "Orders": 7366,
+    "Sales": 229922
+  },
+  "8/6/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 6,
+    "Weekday": "Sat",
+    "Traffic": 73923,
+    "Orders": 5637,
+    "Sales": 182874
+  },
+  "8/7/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 7,
+    "Weekday": "Sun",
+    "Traffic": 70360,
+    "Orders": 5738,
+    "Sales": 170033
+  },
+  "8/8/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 8,
+    "Weekday": "Mon",
+    "Traffic": 101004,
+    "Orders": 9157,
+    "Sales": 257863
+  },
+  "8/9/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 9,
+    "Weekday": "Tue",
+    "Traffic": 111560,
+    "Orders": 9544,
+    "Sales": 278926
+  },
+  "8/10/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 10,
+    "Weekday": "Wed",
+    "Traffic": 112383,
+    "Orders": 9317,
+    "Sales": 274582
+  },
+  "8/11/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 11,
+    "Weekday": "Thu",
+    "Traffic": 108951,
+    "Orders": 9201,
+    "Sales": 275698
+  },
+  "8/12/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 12,
+    "Weekday": "Fri",
+    "Traffic": 100706,
+    "Orders": 7360,
+    "Sales": 228566
+  },
+  "8/13/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 13,
+    "Weekday": "Sat",
+    "Traffic": 73271,
+    "Orders": 4814,
+    "Sales": 158262
+  },
+  "8/14/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 14,
+    "Weekday": "Sun",
+    "Traffic": 82638,
+    "Orders": 6509,
+    "Sales": 203831
+  },
+  "8/15/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 15,
+    "Weekday": "Mon",
+    "Traffic": 102298,
+    "Orders": 7968,
+    "Sales": 232677
+  },
+  "8/16/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 16,
+    "Weekday": "Tue",
+    "Traffic": 130484,
+    "Orders": 11786,
+    "Sales": 328461
+  },
+  "8/17/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 17,
+    "Weekday": "Wed",
+    "Traffic": 111381,
+    "Orders": 10197,
+    "Sales": 285366
+  },
+  "8/18/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 18,
+    "Weekday": "Thu",
+    "Traffic": 119113,
+    "Orders": 10880,
+    "Sales": 301766
+  },
+  "8/19/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 19,
+    "Weekday": "Fri",
+    "Traffic": 127581,
+    "Orders": 13725,
+    "Sales": 357879
+  },
+  "8/20/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 20,
+    "Weekday": "Sat",
+    "Traffic": 78514,
+    "Orders": 5732,
+    "Sales": 178337
+  },
+  "8/21/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 21,
+    "Weekday": "Sun",
+    "Traffic": 85922,
+    "Orders": 6443,
+    "Sales": 201996
+  },
+  "8/22/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 22,
+    "Weekday": "Mon",
+    "Traffic": 109977,
+    "Orders": 8277,
+    "Sales": 241945
+  },
+  "8/23/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 23,
+    "Weekday": "Tue",
+    "Traffic": 107573,
+    "Orders": 8069,
+    "Sales": 245056
+  },
+  "8/24/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 24,
+    "Weekday": "Wed",
+    "Traffic": 101554,
+    "Orders": 7772,
+    "Sales": 230826
+  },
+  "8/25/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 25,
+    "Weekday": "Thu",
+    "Traffic": 99721,
+    "Orders": 7579,
+    "Sales": 229870
+  },
+  "8/26/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 26,
+    "Weekday": "Fri",
+    "Traffic": 93034,
+    "Orders": 6501,
+    "Sales": 204500
+  },
+  "8/27/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 27,
+    "Weekday": "Sat",
+    "Traffic": 74240,
+    "Orders": 4764,
+    "Sales": 163141
+  },
+  "8/28/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 28,
+    "Weekday": "Sun",
+    "Traffic": 74887,
+    "Orders": 5899,
+    "Sales": 186801
+  },
+  "8/29/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 29,
+    "Weekday": "Mon",
+    "Traffic": 99257,
+    "Orders": 7701,
+    "Sales": 237375
+  },
+  "8/30/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 30,
+    "Weekday": "Tue",
+    "Traffic": 125986,
+    "Orders": 8735,
+    "Sales": 274650
+  },
+  "8/31/2023": {
+    "Year": 2023,
+    "Month": "Aug",
+    "Day": 31,
+    "Weekday": "Wed",
+    "Traffic": 110885,
+    "Orders": 8330,
+    "Sales": 268204
+  },
+  "9/1/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 1,
+    "Weekday": "Thu",
+    "Traffic": 98056,
+    "Orders": 7865,
+    "Sales": 251735
+  },
+  "9/2/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 2,
+    "Weekday": "Fri",
+    "Traffic": 96729,
+    "Orders": 6956,
+    "Sales": 228270
+  },
+  "9/3/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 3,
+    "Weekday": "Sat",
+    "Traffic": 71957,
+    "Orders": 5112,
+    "Sales": 173370
+  },
+  "9/4/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 4,
+    "Weekday": "Sun",
+    "Traffic": 69995,
+    "Orders": 5024,
+    "Sales": 169105
+  },
+  "9/5/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 5,
+    "Weekday": "Mon",
+    "Traffic": 86581,
+    "Orders": 7539,
+    "Sales": 244065
+  },
+  "9/6/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 6,
+    "Weekday": "Tue",
+    "Traffic": 102146,
+    "Orders": 8409,
+    "Sales": 257283
+  },
+  "9/7/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 7,
+    "Weekday": "Wed",
+    "Traffic": 146150,
+    "Orders": 12084,
+    "Sales": 418502
+  },
+  "9/8/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 8,
+    "Weekday": "Thu",
+    "Traffic": 119896,
+    "Orders": 9959,
+    "Sales": 334047
+  },
+  "9/9/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 9,
+    "Weekday": "Fri",
+    "Traffic": 111463,
+    "Orders": 7639,
+    "Sales": 242173
+  },
+  "9/10/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 10,
+    "Weekday": "Sat",
+    "Traffic": 76329,
+    "Orders": 5113,
+    "Sales": 188866
+  },
+  "9/11/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 11,
+    "Weekday": "Sun",
+    "Traffic": 74678,
+    "Orders": 5956,
+    "Sales": 193597
+  },
+  "9/12/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 12,
+    "Weekday": "Mon",
+    "Traffic": 112792,
+    "Orders": 8252,
+    "Sales": 249683
+  },
+  "9/13/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 13,
+    "Weekday": "Tue",
+    "Traffic": 153025,
+    "Orders": 9528,
+    "Sales": 295919
+  },
+  "9/14/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 14,
+    "Weekday": "Wed",
+    "Traffic": 131632,
+    "Orders": 9033,
+    "Sales": 288335
+  },
+  "9/15/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 15,
+    "Weekday": "Thu",
+    "Traffic": 108751,
+    "Orders": 8036,
+    "Sales": 261690
+  },
+  "9/16/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 16,
+    "Weekday": "Fri",
+    "Traffic": 113342,
+    "Orders": 7587,
+    "Sales": 246193
+  },
+  "9/17/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 17,
+    "Weekday": "Sat",
+    "Traffic": 77985,
+    "Orders": 5295,
+    "Sales": 187133
+  },
+  "9/18/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 18,
+    "Weekday": "Sun",
+    "Traffic": 83596,
+    "Orders": 6337,
+    "Sales": 210908
+  },
+  "9/19/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 19,
+    "Weekday": "Mon",
+    "Traffic": 110085,
+    "Orders": 8605,
+    "Sales": 274196
+  },
+  "9/20/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 20,
+    "Weekday": "Tue",
+    "Traffic": 128429,
+    "Orders": 11704,
+    "Sales": 339059
+  },
+  "9/21/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 21,
+    "Weekday": "Wed",
+    "Traffic": 118197,
+    "Orders": 10434,
+    "Sales": 305600
+  },
+  "9/22/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 22,
+    "Weekday": "Thu",
+    "Traffic": 114243,
+    "Orders": 9484,
+    "Sales": 277546
+  },
+  "9/23/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 23,
+    "Weekday": "Fri",
+    "Traffic": 118737,
+    "Orders": 11481,
+    "Sales": 346057
+  },
+  "9/24/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 24,
+    "Weekday": "Sat",
+    "Traffic": 79714,
+    "Orders": 5505,
+    "Sales": 202447
+  },
+  "9/25/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 25,
+    "Weekday": "Sun",
+    "Traffic": 80415,
+    "Orders": 5717,
+    "Sales": 199667
+  },
+  "9/26/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 26,
+    "Weekday": "Mon",
+    "Traffic": 116608,
+    "Orders": 7877,
+    "Sales": 260148
+  },
+  "9/27/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 27,
+    "Weekday": "Tue",
+    "Traffic": 139966,
+    "Orders": 10359,
+    "Sales": 324480
+  },
+  "9/28/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 28,
+    "Weekday": "Wed",
+    "Traffic": 126137,
+    "Orders": 9528,
+    "Sales": 315734
+  },
+  "9/29/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 29,
+    "Weekday": "Thu",
+    "Traffic": 106816,
+    "Orders": 7625,
+    "Sales": 257137
+  },
+  "9/30/2023": {
+    "Year": 2023,
+    "Month": "Sep",
+    "Day": 30,
+    "Weekday": "Fri",
+    "Traffic": 111462,
+    "Orders": 7198,
+    "Sales": 250306
+  },
+  "10/1/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 1,
+    "Weekday": "Sat",
+    "Traffic": 80640,
+    "Orders": 5216,
+    "Sales": 194177
+  },
+  "10/2/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 2,
+    "Weekday": "Sun",
+    "Traffic": 83063,
+    "Orders": 6693,
+    "Sales": 236852
+  },
+  "10/3/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 3,
+    "Weekday": "Mon",
+    "Traffic": 112798,
+    "Orders": 8284,
+    "Sales": 278083
+  },
+  "10/4/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 4,
+    "Weekday": "Tue",
+    "Traffic": 120354,
+    "Orders": 8209,
+    "Sales": 278445
+  },
+  "10/5/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 5,
+    "Weekday": "Wed",
+    "Traffic": 134231,
+    "Orders": 8907,
+    "Sales": 304007
+  },
+  "10/6/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 6,
+    "Weekday": "Thu",
+    "Traffic": 120776,
+    "Orders": 8460,
+    "Sales": 288455
+  },
+  "10/7/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 7,
+    "Weekday": "Fri",
+    "Traffic": 109017,
+    "Orders": 7311,
+    "Sales": 253919
+  },
+  "10/8/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 8,
+    "Weekday": "Sat",
+    "Traffic": 86044,
+    "Orders": 5484,
+    "Sales": 202806
+  },
+  "10/9/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 9,
+    "Weekday": "Sun",
+    "Traffic": 82716,
+    "Orders": 6270,
+    "Sales": 222686
+  },
+  "10/10/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 10,
+    "Weekday": "Mon",
+    "Traffic": 159824,
+    "Orders": 17254,
+    "Sales": 500349
+  },
+  "10/11/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 11,
+    "Weekday": "Tue",
+    "Traffic": 122990,
+    "Orders": 8972,
+    "Sales": 304400
+  },
+  "10/12/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 12,
+    "Weekday": "Wed",
+    "Traffic": 150958,
+    "Orders": 9385,
+    "Sales": 325809
+  },
+  "10/13/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 13,
+    "Weekday": "Thu",
+    "Traffic": 117247,
+    "Orders": 7981,
+    "Sales": 283097
+  },
+  "10/14/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 14,
+    "Weekday": "Fri",
+    "Traffic": 125115,
+    "Orders": 7624,
+    "Sales": 272026
+  },
+  "10/15/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 15,
+    "Weekday": "Sat",
+    "Traffic": 90090,
+    "Orders": 5357,
+    "Sales": 199409
+  },
+  "10/16/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 16,
+    "Weekday": "Sun",
+    "Traffic": 94242,
+    "Orders": 6600,
+    "Sales": 237491
+  },
+  "10/17/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 17,
+    "Weekday": "Mon",
+    "Traffic": 132465,
+    "Orders": 8799,
+    "Sales": 303148
+  },
+  "10/18/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 18,
+    "Weekday": "Tue",
+    "Traffic": 164510,
+    "Orders": 13405,
+    "Sales": 418397
+  },
+  "10/19/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 19,
+    "Weekday": "Wed",
+    "Traffic": 139791,
+    "Orders": 11519,
+    "Sales": 369856
+  },
+  "10/20/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 20,
+    "Weekday": "Thu",
+    "Traffic": 149275,
+    "Orders": 11713,
+    "Sales": 375232
+  },
+  "10/21/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 21,
+    "Weekday": "Fri",
+    "Traffic": 145959,
+    "Orders": 14002,
+    "Sales": 431439
+  },
+  "10/22/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 22,
+    "Weekday": "Sat",
+    "Traffic": 92009,
+    "Orders": 6141,
+    "Sales": 216644
+  },
+  "10/23/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 23,
+    "Weekday": "Sun",
+    "Traffic": 93341,
+    "Orders": 6483,
+    "Sales": 232880
+  },
+  "10/24/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 24,
+    "Weekday": "Mon",
+    "Traffic": 146566,
+    "Orders": 8684,
+    "Sales": 303951
+  },
+  "10/25/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 25,
+    "Weekday": "Tue",
+    "Traffic": 140865,
+    "Orders": 8350,
+    "Sales": 297161
+  },
+  "10/26/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 26,
+    "Weekday": "Wed",
+    "Traffic": 134280,
+    "Orders": 8165,
+    "Sales": 299975
+  },
+  "10/27/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 27,
+    "Weekday": "Thu",
+    "Traffic": 118773,
+    "Orders": 7366,
+    "Sales": 262779
+  },
+  "10/28/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 28,
+    "Weekday": "Fri",
+    "Traffic": 136537,
+    "Orders": 7661,
+    "Sales": 272696
+  },
+  "10/29/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 29,
+    "Weekday": "Sat",
+    "Traffic": 86055,
+    "Orders": 5391,
+    "Sales": 201701
+  },
+  "10/30/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 30,
+    "Weekday": "Sun",
+    "Traffic": 86025,
+    "Orders": 6046,
+    "Sales": 223637
+  },
+  "10/31/2023": {
+    "Year": 2023,
+    "Month": "Oct",
+    "Day": 31,
+    "Weekday": "Mon",
+    "Traffic": 124332,
+    "Orders": 8444,
+    "Sales": 286166
+  },
+  "11/1/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 1,
+    "Weekday": "Tue",
+    "Traffic": 123438,
+    "Orders": 8321,
+    "Sales": 294288
+  },
+  "11/2/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 2,
+    "Weekday": "Wed",
+    "Traffic": 136502,
+    "Orders": 9086,
+    "Sales": 323537
+  },
+  "11/3/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 3,
+    "Weekday": "Thu",
+    "Traffic": 122677,
+    "Orders": 8281,
+    "Sales": 299994
+  },
+  "11/4/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 4,
+    "Weekday": "Fri",
+    "Traffic": 160998,
+    "Orders": 15343,
+    "Sales": 473317
+  },
+  "11/5/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 5,
+    "Weekday": "Sat",
+    "Traffic": 94185,
+    "Orders": 6601,
+    "Sales": 241091
+  },
+  "11/6/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 6,
+    "Weekday": "Sun",
+    "Traffic": 94698,
+    "Orders": 6797,
+    "Sales": 250824
+  },
+  "11/7/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 7,
+    "Weekday": "Mon",
+    "Traffic": 146936,
+    "Orders": 9285,
+    "Sales": 320388
+  },
+  "11/8/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 8,
+    "Weekday": "Tue",
+    "Traffic": 111323,
+    "Orders": 8101,
+    "Sales": 291340
+  },
+  "11/9/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 9,
+    "Weekday": "Wed",
+    "Traffic": 149280,
+    "Orders": 9682,
+    "Sales": 341131
+  },
+  "11/10/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 10,
+    "Weekday": "Thu",
+    "Traffic": 117488,
+    "Orders": 8149,
+    "Sales": 296807
+  },
+  "11/11/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 11,
+    "Weekday": "Fri",
+    "Traffic": 127507,
+    "Orders": 7815,
+    "Sales": 289188
+  },
+  "11/12/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 12,
+    "Weekday": "Sat",
+    "Traffic": 94411,
+    "Orders": 5762,
+    "Sales": 216689
+  },
+  "11/13/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 13,
+    "Weekday": "Sun",
+    "Traffic": 91753,
+    "Orders": 6826,
+    "Sales": 253638
+  },
+  "11/14/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 14,
+    "Weekday": "Mon",
+    "Traffic": 166865,
+    "Orders": 10319,
+    "Sales": 363767
+  },
+  "11/15/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 15,
+    "Weekday": "Tue",
+    "Traffic": 128669,
+    "Orders": 8606,
+    "Sales": 317141
+  },
+  "11/16/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 16,
+    "Weekday": "Wed",
+    "Traffic": 154685,
+    "Orders": 9845,
+    "Sales": 352791
+  },
+  "11/17/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 17,
+    "Weekday": "Thu",
+    "Traffic": 129601,
+    "Orders": 8532,
+    "Sales": 313855
+  },
+  "11/18/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 18,
+    "Weekday": "Fri",
+    "Traffic": 144902,
+    "Orders": 11177,
+    "Sales": 376528
+  },
+  "11/19/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 19,
+    "Weekday": "Sat",
+    "Traffic": 114708,
+    "Orders": 8361,
+    "Sales": 295083
+  },
+  "11/20/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 20,
+    "Weekday": "Sun",
+    "Traffic": 122531,
+    "Orders": 9543,
+    "Sales": 330840
+  },
+  "11/21/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 21,
+    "Weekday": "Mon",
+    "Traffic": 146779,
+    "Orders": 10430,
+    "Sales": 356743
+  },
+  "11/22/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 22,
+    "Weekday": "Tue",
+    "Traffic": 130949,
+    "Orders": 9596,
+    "Sales": 342606
+  },
+  "11/23/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 23,
+    "Weekday": "Wed",
+    "Traffic": 110152,
+    "Orders": 7997,
+    "Sales": 286691
+  },
+  "11/24/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 24,
+    "Weekday": "Thu",
+    "Traffic": 79018,
+    "Orders": 4688,
+    "Sales": 166487
+  },
+  "11/25/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 25,
+    "Weekday": "Fri",
+    "Traffic": 137903,
+    "Orders": 10014,
+    "Sales": 357306
+  },
+  "11/26/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 26,
+    "Weekday": "Sat",
+    "Traffic": 114561,
+    "Orders": 8173,
+    "Sales": 297525
+  },
+  "11/27/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 27,
+    "Weekday": "Sun",
+    "Traffic": 135456,
+    "Orders": 9589,
+    "Sales": 336947
+  },
+  "11/28/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 28,
+    "Weekday": "Mon",
+    "Traffic": 206306,
+    "Orders": 18642,
+    "Sales": 604439
+  },
+  "11/29/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 29,
+    "Weekday": "Tue",
+    "Traffic": 165342,
+    "Orders": 15035,
+    "Sales": 483059
+  },
+  "11/30/2023": {
+    "Year": 2023,
+    "Month": "Nov",
+    "Day": 30,
+    "Weekday": "Wed",
+    "Traffic": 128112,
+    "Orders": 9227,
+    "Sales": 324232
+  },
+  "12/1/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 1,
+    "Weekday": "Thu",
+    "Traffic": 133914,
+    "Orders": 9703,
+    "Sales": 351563
+  },
+  "12/2/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 2,
+    "Weekday": "Fri",
+    "Traffic": 126992,
+    "Orders": 9170,
+    "Sales": 347671
+  },
+  "12/3/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 3,
+    "Weekday": "Sat",
+    "Traffic": 108233,
+    "Orders": 7246,
+    "Sales": 282995
+  },
+  "12/4/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 4,
+    "Weekday": "Sun",
+    "Traffic": 95797,
+    "Orders": 7215,
+    "Sales": 272473
+  },
+  "12/5/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 5,
+    "Weekday": "Mon",
+    "Traffic": 167465,
+    "Orders": 16783,
+    "Sales": 522713
+  },
+  "12/6/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 6,
+    "Weekday": "Tue",
+    "Traffic": 131731,
+    "Orders": 9910,
+    "Sales": 368332
+  },
+  "12/7/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 7,
+    "Weekday": "Wed",
+    "Traffic": 146324,
+    "Orders": 10433,
+    "Sales": 393018
+  },
+  "12/8/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 8,
+    "Weekday": "Thu",
+    "Traffic": 115841,
+    "Orders": 9128,
+    "Sales": 343775
+  },
+  "12/9/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 9,
+    "Weekday": "Fri",
+    "Traffic": 99449,
+    "Orders": 8017,
+    "Sales": 292447
+  },
+  "12/10/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 10,
+    "Weekday": "Sat",
+    "Traffic": 74119,
+    "Orders": 5409,
+    "Sales": 204665
+  },
+  "12/11/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 11,
+    "Weekday": "Sun",
+    "Traffic": 81503,
+    "Orders": 6436,
+    "Sales": 237801
+  },
+  "12/12/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 12,
+    "Weekday": "Mon",
+    "Traffic": 105394,
+    "Orders": 8285,
+    "Sales": 309627
+  },
+  "12/13/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 13,
+    "Weekday": "Tue",
+    "Traffic": 109797,
+    "Orders": 8278,
+    "Sales": 298664
+  },
+  "12/14/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 14,
+    "Weekday": "Wed",
+    "Traffic": 139943,
+    "Orders": 10847,
+    "Sales": 374424
+  },
+  "12/15/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 15,
+    "Weekday": "Thu",
+    "Traffic": 110193,
+    "Orders": 8874,
+    "Sales": 315390
+  },
+  "12/16/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 16,
+    "Weekday": "Fri",
+    "Traffic": 113598,
+    "Orders": 8694,
+    "Sales": 307368
+  },
+  "12/17/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 17,
+    "Weekday": "Sat",
+    "Traffic": 66942,
+    "Orders": 4313,
+    "Sales": 159460
+  },
+  "12/18/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 18,
+    "Weekday": "Sun",
+    "Traffic": 71447,
+    "Orders": 4495,
+    "Sales": 155340
+  },
+  "12/19/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 19,
+    "Weekday": "Mon",
+    "Traffic": 106655,
+    "Orders": 6408,
+    "Sales": 221451
+  },
+  "12/20/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 20,
+    "Weekday": "Tue",
+    "Traffic": 85427,
+    "Orders": 4902,
+    "Sales": 166660
+  },
+  "12/21/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 21,
+    "Weekday": "Wed",
+    "Traffic": 109539,
+    "Orders": 5345,
+    "Sales": 175226
+  },
+  "12/22/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 22,
+    "Weekday": "Thu",
+    "Traffic": 78408,
+    "Orders": 3797,
+    "Sales": 127548
+  },
+  "12/23/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 23,
+    "Weekday": "Fri",
+    "Traffic": 83780,
+    "Orders": 3966,
+    "Sales": 125691
+  },
+  "12/24/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 24,
+    "Weekday": "Sat",
+    "Traffic": 53009,
+    "Orders": 2241,
+    "Sales": 71853
+  },
+  "12/25/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 25,
+    "Weekday": "Sun",
+    "Traffic": 44490,
+    "Orders": 1615,
+    "Sales": 51353
+  },
+  "12/26/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 26,
+    "Weekday": "Mon",
+    "Traffic": 107524,
+    "Orders": 7075,
+    "Sales": 207954
+  },
+  "12/27/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 27,
+    "Weekday": "Tue",
+    "Traffic": 98210,
+    "Orders": 7060,
+    "Sales": 209398
+  },
+  "12/28/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 28,
+    "Weekday": "Wed",
+    "Traffic": 129151,
+    "Orders": 9470,
+    "Sales": 270171
+  },
+  "12/29/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 29,
+    "Weekday": "Thu",
+    "Traffic": 97114,
+    "Orders": 7422,
+    "Sales": 220236
+  },
+  "12/30/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 30,
+    "Weekday": "Fri",
+    "Traffic": 112540,
+    "Orders": 9878,
+    "Sales": 281483
+  },
+  "12/31/2023": {
+    "Year": 2023,
+    "Month": "Dec",
+    "Day": 31,
+    "Weekday": "Sat",
+    "Traffic": 67388,
+    "Orders": 5672,
+    "Sales": 171245
+  },
+  "1/1/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 1,
+    "Weekday": "Sun",
+    "Traffic": 61362,
+    "Orders": 4536,
+    "Sales": 138054
+  },
+  "1/2/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 2,
+    "Weekday": "Mon",
+    "Traffic": 99366,
+    "Orders": 8497,
+    "Sales": 253687
+  },
+  "1/3/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 3,
+    "Weekday": "Tue",
+    "Traffic": 114666,
+    "Orders": 10106,
+    "Sales": 288524
+  },
+  "1/4/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 4,
+    "Weekday": "Wed",
+    "Traffic": 116445,
+    "Orders": 7388,
+    "Sales": 238622
+  },
+  "1/5/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 5,
+    "Weekday": "Thu",
+    "Traffic": 103557,
+    "Orders": 6376,
+    "Sales": 209530
+  },
+  "1/6/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 6,
+    "Weekday": "Fri",
+    "Traffic": 107473,
+    "Orders": 6532,
+    "Sales": 221584
+  },
+  "1/7/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 7,
+    "Weekday": "Sat",
+    "Traffic": 76880,
+    "Orders": 4934,
+    "Sales": 167515
+  },
+  "1/8/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 8,
+    "Weekday": "Sun",
+    "Traffic": 74002,
+    "Orders": 5201,
+    "Sales": 174613
+  },
+  "1/9/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 9,
+    "Weekday": "Mon",
+    "Traffic": 118205,
+    "Orders": 7020,
+    "Sales": 223299
+  },
+  "1/10/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 10,
+    "Weekday": "Tue",
+    "Traffic": 154013,
+    "Orders": 7562,
+    "Sales": 245342
+  },
+  "1/11/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 11,
+    "Weekday": "Wed",
+    "Traffic": 199544,
+    "Orders": 8277,
+    "Sales": 278078
+  },
+  "1/12/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 12,
+    "Weekday": "Thu",
+    "Traffic": 123808,
+    "Orders": 7011,
+    "Sales": 238894
+  },
+  "1/13/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 13,
+    "Weekday": "Fri",
+    "Traffic": 124062,
+    "Orders": 7105,
+    "Sales": 244729
+  },
+  "1/14/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 14,
+    "Weekday": "Sat",
+    "Traffic": 84827,
+    "Orders": 5263,
+    "Sales": 182320
+  },
+  "1/15/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 15,
+    "Weekday": "Sun",
+    "Traffic": 79475,
+    "Orders": 5268,
+    "Sales": 183241
+  },
+  "1/16/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 16,
+    "Weekday": "Mon",
+    "Traffic": 133758,
+    "Orders": 11469,
+    "Sales": 334283
+  },
+  "1/17/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 17,
+    "Weekday": "Tue",
+    "Traffic": 114150,
+    "Orders": 8498,
+    "Sales": 261943
+  },
+  "1/18/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 18,
+    "Weekday": "Wed",
+    "Traffic": 149856,
+    "Orders": 15623,
+    "Sales": 445789
+  },
+  "1/19/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 19,
+    "Weekday": "Thu",
+    "Traffic": 114848,
+    "Orders": 7299,
+    "Sales": 246566
+  },
+  "1/20/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 20,
+    "Weekday": "Fri",
+    "Traffic": 121372,
+    "Orders": 7555,
+    "Sales": 263370
+  },
+  "1/21/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 21,
+    "Weekday": "Sat",
+    "Traffic": 88091,
+    "Orders": 5791,
+    "Sales": 210584
+  },
+  "1/22/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 22,
+    "Weekday": "Sun",
+    "Traffic": 92878,
+    "Orders": 6620,
+    "Sales": 235087
+  },
+  "1/23/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 23,
+    "Weekday": "Mon",
+    "Traffic": 143813,
+    "Orders": 8675,
+    "Sales": 300900
+  },
+  "1/24/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 24,
+    "Weekday": "Tue",
+    "Traffic": 117156,
+    "Orders": 7827,
+    "Sales": 270093
+  },
+  "1/25/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 25,
+    "Weekday": "Wed",
+    "Traffic": 138896,
+    "Orders": 8322,
+    "Sales": 284708
+  },
+  "1/26/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 26,
+    "Weekday": "Thu",
+    "Traffic": 132625,
+    "Orders": 8668,
+    "Sales": 303146
+  },
+  "1/27/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 27,
+    "Weekday": "Fri",
+    "Traffic": 126047,
+    "Orders": 8166,
+    "Sales": 291157
+  },
+  "1/28/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 28,
+    "Weekday": "Sat",
+    "Traffic": 84730,
+    "Orders": 5420,
+    "Sales": 196745
+  },
+  "1/29/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 29,
+    "Weekday": "Sun",
+    "Traffic": 83525,
+    "Orders": 5924,
+    "Sales": 213058
+  },
+  "1/30/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 30,
+    "Weekday": "Mon",
+    "Traffic": 142224,
+    "Orders": 8885,
+    "Sales": 304821
+  },
+  "1/31/2024": {
+    "Year": 2024,
+    "Month": "Jan",
+    "Day": 31,
+    "Weekday": "Tue",
+    "Traffic": 116648,
+    "Orders": 7960,
+    "Sales": 277695
+  },
+  "2/1/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 1,
+    "Weekday": "Wed",
+    "Traffic": 129812,
+    "Orders": 8975,
+    "Sales": 310018
+  },
+  "2/2/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 2,
+    "Weekday": "Thu",
+    "Traffic": 131343,
+    "Orders": 8906,
+    "Sales": 303368
+  },
+  "2/3/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 3,
+    "Weekday": "Fri",
+    "Traffic": 116417,
+    "Orders": 8454,
+    "Sales": 301901
+  },
+  "2/4/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 4,
+    "Weekday": "Sat",
+    "Traffic": 86463,
+    "Orders": 6162,
+    "Sales": 230504
+  },
+  "2/5/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 5,
+    "Weekday": "Sun",
+    "Traffic": 79139,
+    "Orders": 6343,
+    "Sales": 231259
+  },
+  "2/6/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 6,
+    "Weekday": "Mon",
+    "Traffic": 147623,
+    "Orders": 9710,
+    "Sales": 327674
+  },
+  "2/7/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 7,
+    "Weekday": "Tue",
+    "Traffic": 116370,
+    "Orders": 8532,
+    "Sales": 293252
+  },
+  "2/8/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 8,
+    "Weekday": "Wed",
+    "Traffic": 138146,
+    "Orders": 10244,
+    "Sales": 351317
+  },
+  "2/9/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 9,
+    "Weekday": "Thu",
+    "Traffic": 125238,
+    "Orders": 9951,
+    "Sales": 344243
+  },
+  "2/10/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 10,
+    "Weekday": "Fri",
+    "Traffic": 139993,
+    "Orders": 10975,
+    "Sales": 366676
+  },
+  "2/11/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 11,
+    "Weekday": "Sat",
+    "Traffic": 87841,
+    "Orders": 6852,
+    "Sales": 248546
+  },
+  "2/12/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 12,
+    "Weekday": "Sun",
+    "Traffic": 85668,
+    "Orders": 6757,
+    "Sales": 236476
+  },
+  "2/13/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 13,
+    "Weekday": "Mon",
+    "Traffic": 130440,
+    "Orders": 9557,
+    "Sales": 313361
+  },
+  "2/14/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 14,
+    "Weekday": "Tue",
+    "Traffic": 108477,
+    "Orders": 7809,
+    "Sales": 268630
+  },
+  "2/15/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 15,
+    "Weekday": "Wed",
+    "Traffic": 144456,
+    "Orders": 12730,
+    "Sales": 398252
+  },
+  "2/16/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 16,
+    "Weekday": "Thu",
+    "Traffic": 99887,
+    "Orders": 7830,
+    "Sales": 265672
+  },
+  "2/17/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 17,
+    "Weekday": "Fri",
+    "Traffic": 94304,
+    "Orders": 6806,
+    "Sales": 240745
+  },
+  "2/18/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 18,
+    "Weekday": "Sat",
+    "Traffic": 66472,
+    "Orders": 4731,
+    "Sales": 173662
+  },
+  "2/19/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 19,
+    "Weekday": "Sun",
+    "Traffic": 87462,
+    "Orders": 6564,
+    "Sales": 231442
+  },
+  "2/20/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 20,
+    "Weekday": "Mon",
+    "Traffic": 135532,
+    "Orders": 14180,
+    "Sales": 422457
+  },
+  "2/21/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 21,
+    "Weekday": "Tue",
+    "Traffic": 143772,
+    "Orders": 12591,
+    "Sales": 380658
+  },
+  "2/22/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 22,
+    "Weekday": "Wed",
+    "Traffic": 121027,
+    "Orders": 7761,
+    "Sales": 261678
+  },
+  "2/23/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 23,
+    "Weekday": "Thu",
+    "Traffic": 117837,
+    "Orders": 7875,
+    "Sales": 271836
+  },
+  "2/24/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 24,
+    "Weekday": "Fri",
+    "Traffic": 126049,
+    "Orders": 8162,
+    "Sales": 280154
+  },
+  "2/25/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 25,
+    "Weekday": "Sat",
+    "Traffic": 84880,
+    "Orders": 5642,
+    "Sales": 208713
+  },
+  "2/26/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 26,
+    "Weekday": "Sun",
+    "Traffic": 77755,
+    "Orders": 5877,
+    "Sales": 207887
+  },
+  "2/27/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 27,
+    "Weekday": "Mon",
+    "Traffic": 115112,
+    "Orders": 8121,
+    "Sales": 275834
+  },
+  "2/28/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 28,
+    "Weekday": "Tue",
+    "Traffic": 115376,
+    "Orders": 8004,
+    "Sales": 273767
+  },
+  "3/1/2024": {
+    "Year": 2024,
+    "Month": "Feb",
+    "Day": 29,
+    "Weekday": "Wed",
+    "Traffic": 111234,
+    "Orders": 9297,
+    "Sales": 305512
+  },
+  "3/2/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 1,
+    "Weekday": "Thu",
+    "Traffic": 121002,
+    "Orders": 8567,
+    "Sales": 297527
+  },
+  "3/3/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 2,
+    "Weekday": "Fri",
+    "Traffic": 103352,
+    "Orders": 7297,
+    "Sales": 255217
+  },
+  "3/4/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 3,
+    "Weekday": "Sat",
+    "Traffic": 79745,
+    "Orders": 5604,
+    "Sales": 205485
+  },
+  "3/5/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 4,
+    "Weekday": "Sun",
+    "Traffic": 111585,
+    "Orders": 7497,
+    "Sales": 263706
+  },
+  "3/6/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 5,
+    "Weekday": "Mon",
+    "Traffic": 150486,
+    "Orders": 9270,
+    "Sales": 320290
+  },
+  "3/7/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 6,
+    "Weekday": "Tue",
+    "Traffic": 127369,
+    "Orders": 8957,
+    "Sales": 305282
+  },
+  "3/8/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 7,
+    "Weekday": "Wed",
+    "Traffic": 121490,
+    "Orders": 9147,
+    "Sales": 318189
+  },
+  "3/9/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 8,
+    "Weekday": "Thu",
+    "Traffic": 107141,
+    "Orders": 8348,
+    "Sales": 290253
+  },
+  "3/10/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 9,
+    "Weekday": "Fri",
+    "Traffic": 110176,
+    "Orders": 8443,
+    "Sales": 297969
+  },
+  "3/11/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 10,
+    "Weekday": "Sat",
+    "Traffic": 79883,
+    "Orders": 6530,
+    "Sales": 232811
+  },
+  "3/12/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 11,
+    "Weekday": "Sun",
+    "Traffic": 76258,
+    "Orders": 6741,
+    "Sales": 235371
+  },
+  "3/13/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 12,
+    "Weekday": "Mon",
+    "Traffic": 131664,
+    "Orders": 9520,
+    "Sales": 330883
+  },
+  "3/14/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 13,
+    "Weekday": "Tue",
+    "Traffic": 114377,
+    "Orders": 8595,
+    "Sales": 302732
+  },
+  "3/15/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 14,
+    "Weekday": "Wed",
+    "Traffic": 119182,
+    "Orders": 8661,
+    "Sales": 304307
+  },
+  "3/16/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 15,
+    "Weekday": "Thu",
+    "Traffic": 121981,
+    "Orders": 8422,
+    "Sales": 297613
+  },
+  "3/17/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 16,
+    "Weekday": "Fri",
+    "Traffic": 117565,
+    "Orders": 8111,
+    "Sales": 289287
+  },
+  "3/18/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 17,
+    "Weekday": "Sat",
+    "Traffic": 106436,
+    "Orders": 5714,
+    "Sales": 210653
+  },
+  "3/19/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 18,
+    "Weekday": "Sun",
+    "Traffic": 100360,
+    "Orders": 6040,
+    "Sales": 225915
+  },
+  "3/20/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 19,
+    "Weekday": "Mon",
+    "Traffic": 140843,
+    "Orders": 10954,
+    "Sales": 350705
+  },
+  "3/21/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 20,
+    "Weekday": "Tue",
+    "Traffic": 129313,
+    "Orders": 9194,
+    "Sales": 315216
+  },
+  "3/22/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 21,
+    "Weekday": "Wed",
+    "Traffic": 114690,
+    "Orders": 8191,
+    "Sales": 282416
+  },
+  "3/23/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 22,
+    "Weekday": "Thu",
+    "Traffic": 114245,
+    "Orders": 8114,
+    "Sales": 282197
+  },
+  "3/24/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 23,
+    "Weekday": "Fri",
+    "Traffic": 106628,
+    "Orders": 6974,
+    "Sales": 250529
+  },
+  "3/25/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 24,
+    "Weekday": "Sat",
+    "Traffic": 83420,
+    "Orders": 4864,
+    "Sales": 186314
+  },
+  "3/26/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 25,
+    "Weekday": "Sun",
+    "Traffic": 87345,
+    "Orders": 5425,
+    "Sales": 197734
+  },
+  "3/27/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 26,
+    "Weekday": "Mon",
+    "Traffic": 122159,
+    "Orders": 7660,
+    "Sales": 271660
+  },
+  "3/28/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 27,
+    "Weekday": "Tue",
+    "Traffic": 117867,
+    "Orders": 7306,
+    "Sales": 257897
+  },
+  "3/29/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 28,
+    "Weekday": "Wed",
+    "Traffic": 105896,
+    "Orders": 6757,
+    "Sales": 243024
+  },
+  "3/30/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 29,
+    "Weekday": "Thu",
+    "Traffic": 110448,
+    "Orders": 7027,
+    "Sales": 257776
+  },
+  "3/31/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 30,
+    "Weekday": "Fri",
+    "Traffic": 95378,
+    "Orders": 6282,
+    "Sales": 228651
+  },
+  "4/1/2024": {
+    "Year": 2024,
+    "Month": "Mar",
+    "Day": 31,
+    "Weekday": "Sat",
+    "Traffic": 76361,
+    "Orders": 4975,
+    "Sales": 187605
+  },
+  "4/2/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 1,
+    "Weekday": "Sun",
+    "Traffic": 79217,
+    "Orders": 5574,
+    "Sales": 201753
+  },
+  "4/3/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 2,
+    "Weekday": "Mon",
+    "Traffic": 126502,
+    "Orders": 8353,
+    "Sales": 274688
+  },
+  "4/4/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 3,
+    "Weekday": "Tue",
+    "Traffic": 113489,
+    "Orders": 8379,
+    "Sales": 276138
+  },
+  "4/5/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 4,
+    "Weekday": "Wed",
+    "Traffic": 104038,
+    "Orders": 6781,
+    "Sales": 233224
+  },
+  "4/6/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 5,
+    "Weekday": "Thu",
+    "Traffic": 99328,
+    "Orders": 6606,
+    "Sales": 228534
+  },
+  "4/7/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 6,
+    "Weekday": "Fri",
+    "Traffic": 89344,
+    "Orders": 5760,
+    "Sales": 199622
+  },
+  "4/8/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 7,
+    "Weekday": "Sat",
+    "Traffic": 69242,
+    "Orders": 3920,
+    "Sales": 140473
+  },
+  "4/9/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 8,
+    "Weekday": "Sun",
+    "Traffic": 71198,
+    "Orders": 4048,
+    "Sales": 138100
+  },
+  "4/10/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 9,
+    "Weekday": "Mon",
+    "Traffic": 112062,
+    "Orders": 6894,
+    "Sales": 230404
+  },
+  "4/11/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 10,
+    "Weekday": "Tue",
+    "Traffic": 122593,
+    "Orders": 7785,
+    "Sales": 259511
+  },
+  "4/12/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 11,
+    "Weekday": "Wed",
+    "Traffic": 106706,
+    "Orders": 6916,
+    "Sales": 233281
+  },
+  "4/13/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 12,
+    "Weekday": "Thu",
+    "Traffic": 105002,
+    "Orders": 6599,
+    "Sales": 229532
+  },
+  "4/14/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 13,
+    "Weekday": "Fri",
+    "Traffic": 106964,
+    "Orders": 6460,
+    "Sales": 229370
+  },
+  "4/15/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 14,
+    "Weekday": "Sat",
+    "Traffic": 81134,
+    "Orders": 4871,
+    "Sales": 172509
+  },
+  "4/16/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 15,
+    "Weekday": "Sun",
+    "Traffic": 82431,
+    "Orders": 5474,
+    "Sales": 189129
+  },
+  "4/17/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 16,
+    "Weekday": "Mon",
+    "Traffic": 124481,
+    "Orders": 7274,
+    "Sales": 238070
+  },
+  "4/18/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 17,
+    "Weekday": "Tue",
+    "Traffic": 117558,
+    "Orders": 6817,
+    "Sales": 222677
+  },
+  "4/19/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 18,
+    "Weekday": "Wed",
+    "Traffic": 115917,
+    "Orders": 7044,
+    "Sales": 238737
+  },
+  "4/20/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 19,
+    "Weekday": "Thu",
+    "Traffic": 110781,
+    "Orders": 7527,
+    "Sales": 249902
+  },
+  "4/21/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 20,
+    "Weekday": "Fri",
+    "Traffic": 108033,
+    "Orders": 7346,
+    "Sales": 250788
+  },
+  "4/22/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 21,
+    "Weekday": "Sat",
+    "Traffic": 78645,
+    "Orders": 4800,
+    "Sales": 171397
+  },
+  "4/23/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 22,
+    "Weekday": "Sun",
+    "Traffic": 90554,
+    "Orders": 5745,
+    "Sales": 203344
+  },
+  "4/24/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 23,
+    "Weekday": "Mon",
+    "Traffic": 123907,
+    "Orders": 7854,
+    "Sales": 254595
+  },
+  "4/25/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 24,
+    "Weekday": "Tue",
+    "Traffic": 128345,
+    "Orders": 10488,
+    "Sales": 328225
+  },
+  "4/26/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 25,
+    "Weekday": "Wed",
+    "Traffic": 130154,
+    "Orders": 12106,
+    "Sales": 360126
+  },
+  "4/27/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 26,
+    "Weekday": "Thu",
+    "Traffic": 80467,
+    "Orders": 5021,
+    "Sales": 171550
+  },
+  "4/28/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 27,
+    "Weekday": "Fri",
+    "Traffic": 86570,
+    "Orders": 5459,
+    "Sales": 195838
+  },
+  "4/29/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 28,
+    "Weekday": "Sat",
+    "Traffic": 65796,
+    "Orders": 3837,
+    "Sales": 141790
+  },
+  "4/30/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 29,
+    "Weekday": "Sun",
+    "Traffic": 89219,
+    "Orders": 5439,
+    "Sales": 189701
+  },
+  "5/1/2024": {
+    "Year": 2024,
+    "Month": "Apr",
+    "Day": 30,
+    "Weekday": "Mon",
+    "Traffic": 143777,
+    "Orders": 8483,
+    "Sales": 289337
+  },
+  "5/2/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 1,
+    "Weekday": "Tue",
+    "Traffic": 119078,
+    "Orders": 8148,
+    "Sales": 288800
+  },
+  "5/3/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 2,
+    "Weekday": "Wed",
+    "Traffic": 121469,
+    "Orders": 8961,
+    "Sales": 293579
+  },
+  "5/4/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 3,
+    "Weekday": "Thu",
+    "Traffic": 104046,
+    "Orders": 6767,
+    "Sales": 231652
+  },
+  "5/5/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 4,
+    "Weekday": "Fri",
+    "Traffic": 103603,
+    "Orders": 7334,
+    "Sales": 252001
+  },
+  "5/6/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 5,
+    "Weekday": "Sat",
+    "Traffic": 78728,
+    "Orders": 5113,
+    "Sales": 180769
+  },
+  "5/7/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 6,
+    "Weekday": "Sun",
+    "Traffic": 88464,
+    "Orders": 5936,
+    "Sales": 207628
+  },
+  "5/8/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 7,
+    "Weekday": "Mon",
+    "Traffic": 122423,
+    "Orders": 8042,
+    "Sales": 272555
+  },
+  "5/9/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 8,
+    "Weekday": "Tue",
+    "Traffic": 136759,
+    "Orders": 8894,
+    "Sales": 304436
+  },
+  "5/10/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 9,
+    "Weekday": "Wed",
+    "Traffic": 112166,
+    "Orders": 7670,
+    "Sales": 264497
+  },
+  "5/11/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 10,
+    "Weekday": "Thu",
+    "Traffic": 97348,
+    "Orders": 6682,
+    "Sales": 226438
+  },
+  "5/12/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 11,
+    "Weekday": "Fri",
+    "Traffic": 93796,
+    "Orders": 6162,
+    "Sales": 207749
+  },
+  "5/13/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 12,
+    "Weekday": "Sat",
+    "Traffic": 72687,
+    "Orders": 4823,
+    "Sales": 168628
+  },
+  "5/14/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 13,
+    "Weekday": "Sun",
+    "Traffic": 69422,
+    "Orders": 4645,
+    "Sales": 159510
+  },
+  "5/15/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 14,
+    "Weekday": "Mon",
+    "Traffic": 123969,
+    "Orders": 8619,
+    "Sales": 290710
+  },
+  "5/16/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 15,
+    "Weekday": "Tue",
+    "Traffic": 120983,
+    "Orders": 9448,
+    "Sales": 298794
+  },
+  "5/17/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 16,
+    "Weekday": "Wed",
+    "Traffic": 114510,
+    "Orders": 8819,
+    "Sales": 288186
+  },
+  "5/18/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 17,
+    "Weekday": "Thu",
+    "Traffic": 109471,
+    "Orders": 8262,
+    "Sales": 275258
+  },
+  "5/19/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 18,
+    "Weekday": "Fri",
+    "Traffic": 97133,
+    "Orders": 7224,
+    "Sales": 245997
+  },
+  "5/20/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 19,
+    "Weekday": "Sat",
+    "Traffic": 75437,
+    "Orders": 5377,
+    "Sales": 179594
+  },
+  "5/21/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 20,
+    "Weekday": "Sun",
+    "Traffic": 81726,
+    "Orders": 6006,
+    "Sales": 205996
+  },
+  "5/22/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 21,
+    "Weekday": "Mon",
+    "Traffic": 116600,
+    "Orders": 8816,
+    "Sales": 289407
+  },
+  "5/23/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 22,
+    "Weekday": "Tue",
+    "Traffic": 109236,
+    "Orders": 8417,
+    "Sales": 274982
+  },
+  "5/24/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 23,
+    "Weekday": "Wed",
+    "Traffic": 111671,
+    "Orders": 8223,
+    "Sales": 264931
+  },
+  "5/25/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 24,
+    "Weekday": "Thu",
+    "Traffic": 118398,
+    "Orders": 8869,
+    "Sales": 270886
+  },
+  "5/26/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 25,
+    "Weekday": "Fri",
+    "Traffic": 107078,
+    "Orders": 9820,
+    "Sales": 290938
+  },
+  "5/27/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 26,
+    "Weekday": "Sat",
+    "Traffic": 86865,
+    "Orders": 8009,
+    "Sales": 224471
+  },
+  "5/28/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 27,
+    "Weekday": "Sun",
+    "Traffic": 77706,
+    "Orders": 6719,
+    "Sales": 196585
+  },
+  "5/29/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 28,
+    "Weekday": "Mon",
+    "Traffic": 98918,
+    "Orders": 10356,
+    "Sales": 309298
+  },
+  "5/30/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 29,
+    "Weekday": "Tue",
+    "Traffic": 114366,
+    "Orders": 9181,
+    "Sales": 281593
+  },
+  "5/31/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 30,
+    "Weekday": "Wed",
+    "Traffic": 120762,
+    "Orders": 8892,
+    "Sales": 282193
+  },
+  "6/1/2024": {
+    "Year": 2024,
+    "Month": "May",
+    "Day": 31,
+    "Weekday": "Thu",
+    "Traffic": 114120,
+    "Orders": 8589,
+    "Sales": 280890
+  },
+  "6/2/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 1,
+    "Weekday": "Fri",
+    "Traffic": 130927,
+    "Orders": 9525,
+    "Sales": 287433
+  },
+  "6/3/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 2,
+    "Weekday": "Sat",
+    "Traffic": 89954,
+    "Orders": 6516,
+    "Sales": 205081
+  },
+  "6/4/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 3,
+    "Weekday": "Sun",
+    "Traffic": 93305,
+    "Orders": 6972,
+    "Sales": 215910
+  },
+  "6/5/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 4,
+    "Weekday": "Mon",
+    "Traffic": 130006,
+    "Orders": 9486,
+    "Sales": 289828
+  },
+  "6/6/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 5,
+    "Weekday": "Tue",
+    "Traffic": 120587,
+    "Orders": 8830,
+    "Sales": 269489
+  },
+  "6/7/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 6,
+    "Weekday": "Wed",
+    "Traffic": 118403,
+    "Orders": 8614,
+    "Sales": 280711
+  },
+  "6/8/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 7,
+    "Weekday": "Thu",
+    "Traffic": 101797,
+    "Orders": 7711,
+    "Sales": 239706
+  },
+  "6/9/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 8,
+    "Weekday": "Fri",
+    "Traffic": 96756,
+    "Orders": 7264,
+    "Sales": 228590
+  },
+  "6/10/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 9,
+    "Weekday": "Sat",
+    "Traffic": 75914,
+    "Orders": 5455,
+    "Sales": 180394
+  },
+  "6/11/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 10,
+    "Weekday": "Sun",
+    "Traffic": 76240,
+    "Orders": 5785,
+    "Sales": 184598
+  },
+  "6/12/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 11,
+    "Weekday": "Mon",
+    "Traffic": 123283,
+    "Orders": 8914,
+    "Sales": 266255
+  },
+  "6/13/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 12,
+    "Weekday": "Tue",
+    "Traffic": 112290,
+    "Orders": 8167,
+    "Sales": 252514
+  },
+  "6/14/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 13,
+    "Weekday": "Wed",
+    "Traffic": 108369,
+    "Orders": 7796,
+    "Sales": 246821
+  },
+  "6/15/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 14,
+    "Weekday": "Thu",
+    "Traffic": 108699,
+    "Orders": 8126,
+    "Sales": 253193
+  },
+  "6/16/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 15,
+    "Weekday": "Fri",
+    "Traffic": 95433,
+    "Orders": 7365,
+    "Sales": 228079
+  },
+  "6/17/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 16,
+    "Weekday": "Sat",
+    "Traffic": 78632,
+    "Orders": 5131,
+    "Sales": 160826
+  },
+  "6/18/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 17,
+    "Weekday": "Sun",
+    "Traffic": 76144,
+    "Orders": 5304,
+    "Sales": 166528
+  },
+  "6/19/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 18,
+    "Weekday": "Mon",
+    "Traffic": 110934,
+    "Orders": 7800,
+    "Sales": 236888
+  },
+  "6/20/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 19,
+    "Weekday": "Tue",
+    "Traffic": 110534,
+    "Orders": 8351,
+    "Sales": 252706
+  },
+  "6/21/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 20,
+    "Weekday": "Wed",
+    "Traffic": 123342,
+    "Orders": 8826,
+    "Sales": 273636
+  },
+  "6/22/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 21,
+    "Weekday": "Thu",
+    "Traffic": 109101,
+    "Orders": 8044,
+    "Sales": 252695
+  },
+  "6/23/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 22,
+    "Weekday": "Fri",
+    "Traffic": 97373,
+    "Orders": 7107,
+    "Sales": 223386
+  },
+  "6/24/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 23,
+    "Weekday": "Sat",
+    "Traffic": 77560,
+    "Orders": 5457,
+    "Sales": 177648
+  },
+  "6/25/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 24,
+    "Weekday": "Sun",
+    "Traffic": 80390,
+    "Orders": 5892,
+    "Sales": 193534
+  },
+  "6/26/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 25,
+    "Weekday": "Mon",
+    "Traffic": 121252,
+    "Orders": 8950,
+    "Sales": 274749
+  },
+  "6/27/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 26,
+    "Weekday": "Tue",
+    "Traffic": 110510,
+    "Orders": 7995,
+    "Sales": 253189
+  },
+  "6/28/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 27,
+    "Weekday": "Wed",
+    "Traffic": 105225,
+    "Orders": 7915,
+    "Sales": 247836
+  },
+  "6/29/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 28,
+    "Weekday": "Thu",
+    "Traffic": 103449,
+    "Orders": 7709,
+    "Sales": 238581
+  },
+  "6/30/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 29,
+    "Weekday": "Fri",
+    "Traffic": 93351,
+    "Orders": 8133,
+    "Sales": 250500
+  },
+  "7/1/2024": {
+    "Year": 2024,
+    "Month": "Jun",
+    "Day": 30,
+    "Weekday": "Sat",
+    "Traffic": 75606,
+    "Orders": 6086,
+    "Sales": 195210
+  },
+  "7/2/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 1,
+    "Weekday": "Sun",
+    "Traffic": 74227,
+    "Orders": 5570,
+    "Sales": 183130
+  },
+  "7/3/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 2,
+    "Weekday": "Mon",
+    "Traffic": 105517,
+    "Orders": 7874,
+    "Sales": 252433
+  },
+  "7/4/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 3,
+    "Weekday": "Tue",
+    "Traffic": 98920,
+    "Orders": 7065,
+    "Sales": 227477
+  },
+  "7/5/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 4,
+    "Weekday": "Wed",
+    "Traffic": 78334,
+    "Orders": 7060,
+    "Sales": 222542
+  },
+  "7/6/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 5,
+    "Weekday": "Thu",
+    "Traffic": 109381,
+    "Orders": 8012,
+    "Sales": 259087
+  },
+  "7/7/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 6,
+    "Weekday": "Fri",
+    "Traffic": 84896,
+    "Orders": 5748,
+    "Sales": 195426
+  },
+  "7/8/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 7,
+    "Weekday": "Sat",
+    "Traffic": 78327,
+    "Orders": 5169,
+    "Sales": 185259
+  },
+  "7/9/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 8,
+    "Weekday": "Sun",
+    "Traffic": 86006,
+    "Orders": 5490,
+    "Sales": 189477
+  },
+  "7/10/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 9,
+    "Weekday": "Mon",
+    "Traffic": 120214,
+    "Orders": 7673,
+    "Sales": 253565
+  },
+  "7/11/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 10,
+    "Weekday": "Tue",
+    "Traffic": 117737,
+    "Orders": 7584,
+    "Sales": 251329
+  },
+  "7/12/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 11,
+    "Weekday": "Wed",
+    "Traffic": 111685,
+    "Orders": 7470,
+    "Sales": 253734
+  },
+  "7/13/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 12,
+    "Weekday": "Thu",
+    "Traffic": 104055,
+    "Orders": 7027,
+    "Sales": 234516
+  },
+  "7/14/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 13,
+    "Weekday": "Fri",
+    "Traffic": 95666,
+    "Orders": 6056,
+    "Sales": 205974
+  },
+  "7/15/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 14,
+    "Weekday": "Sat",
+    "Traffic": 80986,
+    "Orders": 4625,
+    "Sales": 159929
+  },
+  "7/16/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 15,
+    "Weekday": "Sun",
+    "Traffic": 78018,
+    "Orders": 4955,
+    "Sales": 173525
+  },
+  "7/17/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 16,
+    "Weekday": "Mon",
+    "Traffic": 106569,
+    "Orders": 6716,
+    "Sales": 221032
+  },
+  "7/18/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 17,
+    "Weekday": "Tue",
+    "Traffic": 103373,
+    "Orders": 6707,
+    "Sales": 221035
+  },
+  "7/19/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 18,
+    "Weekday": "Wed",
+    "Traffic": 106937,
+    "Orders": 6826,
+    "Sales": 234323
+  },
+  "7/20/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 19,
+    "Weekday": "Thu",
+    "Traffic": 95437,
+    "Orders": 5955,
+    "Sales": 206028
+  },
+  "7/21/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 20,
+    "Weekday": "Fri",
+    "Traffic": 88312,
+    "Orders": 6018,
+    "Sales": 206142
+  },
+  "7/22/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 21,
+    "Weekday": "Sat",
+    "Traffic": 69749,
+    "Orders": 4594,
+    "Sales": 157573
+  },
+  "7/23/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 22,
+    "Weekday": "Sun",
+    "Traffic": 86277,
+    "Orders": 4852,
+    "Sales": 157747
+  },
+  "7/24/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 23,
+    "Weekday": "Mon",
+    "Traffic": 139346,
+    "Orders": 11332,
+    "Sales": 347092
+  },
+  "7/25/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 24,
+    "Weekday": "Tue",
+    "Traffic": 112022,
+    "Orders": 8250,
+    "Sales": 266344
+  },
+  "7/26/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 25,
+    "Weekday": "Wed",
+    "Traffic": 125337,
+    "Orders": 8098,
+    "Sales": 265971
+  },
+  "7/27/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 26,
+    "Weekday": "Thu",
+    "Traffic": 109387,
+    "Orders": 7928,
+    "Sales": 256490
+  },
+  "7/28/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 27,
+    "Weekday": "Fri",
+    "Traffic": 115066,
+    "Orders": 7656,
+    "Sales": 247031
+  },
+  "7/29/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 28,
+    "Weekday": "Sat",
+    "Traffic": 84801,
+    "Orders": 5763,
+    "Sales": 194130
+  },
+  "7/30/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 29,
+    "Weekday": "Sun",
+    "Traffic": 101044,
+    "Orders": 6745,
+    "Sales": 222465
+  },
+  "7/31/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 30,
+    "Weekday": "Mon",
+    "Traffic": 121169,
+    "Orders": 8288,
+    "Sales": 276454
+  },
+  "8/1/2024": {
+    "Year": 2024,
+    "Month": "Jul",
+    "Day": 31,
+    "Weekday": "Tue",
+    "Traffic": 117551,
+    "Orders": 9153,
+    "Sales": 294608
+  },
+  "8/2/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 1,
+    "Weekday": "Wed",
+    "Traffic": 115171,
+    "Orders": 7908,
+    "Sales": 258402
+  },
+  "8/3/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 2,
+    "Weekday": "Thu",
+    "Traffic": 99373,
+    "Orders": 6498,
+    "Sales": 217150
+  },
+  "8/4/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 3,
+    "Weekday": "Fri",
+    "Traffic": 84469,
+    "Orders": 5674,
+    "Sales": 191461
+  },
+  "8/5/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 4,
+    "Weekday": "Sat",
+    "Traffic": 71555,
+    "Orders": 4547,
+    "Sales": 156835
+  },
+  "8/6/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 5,
+    "Weekday": "Sun",
+    "Traffic": 76189,
+    "Orders": 5044,
+    "Sales": 174279
+  },
+  "8/7/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 6,
+    "Weekday": "Mon",
+    "Traffic": 100812,
+    "Orders": 6594,
+    "Sales": 220815
+  },
+  "8/8/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 7,
+    "Weekday": "Tue",
+    "Traffic": 112335,
+    "Orders": 6977,
+    "Sales": 229697
+  },
+  "8/9/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 8,
+    "Weekday": "Wed",
+    "Traffic": 109638,
+    "Orders": 7317,
+    "Sales": 244121
+  },
+  "8/10/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 9,
+    "Weekday": "Thu",
+    "Traffic": 108950,
+    "Orders": 6885,
+    "Sales": 224578
+  },
+  "8/11/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 10,
+    "Weekday": "Fri",
+    "Traffic": 91041,
+    "Orders": 5673,
+    "Sales": 192378
+  },
+  "8/12/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 11,
+    "Weekday": "Sat",
+    "Traffic": 73611,
+    "Orders": 4390,
+    "Sales": 151801
+  },
+  "8/13/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 12,
+    "Weekday": "Sun",
+    "Traffic": 72156,
+    "Orders": 4850,
+    "Sales": 166864
+  },
+  "8/14/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 13,
+    "Weekday": "Mon",
+    "Traffic": 103150,
+    "Orders": 6168,
+    "Sales": 206510
+  },
+  "8/15/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 14,
+    "Weekday": "Tue",
+    "Traffic": 98853,
+    "Orders": 6131,
+    "Sales": 204883
+  },
+  "8/16/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 15,
+    "Weekday": "Wed",
+    "Traffic": 109087,
+    "Orders": 11602,
+    "Sales": 340199
+  },
+  "8/17/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 16,
+    "Weekday": "Thu",
+    "Traffic": 109372,
+    "Orders": 11374,
+    "Sales": 322462
+  },
+  "8/18/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 17,
+    "Weekday": "Fri",
+    "Traffic": 76554,
+    "Orders": 6396,
+    "Sales": 207419
+  },
+  "8/19/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 18,
+    "Weekday": "Sat",
+    "Traffic": 56611,
+    "Orders": 4352,
+    "Sales": 151742
+  },
+  "8/20/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 19,
+    "Weekday": "Sun",
+    "Traffic": 54949,
+    "Orders": 4694,
+    "Sales": 156707
+  },
+  "8/21/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 20,
+    "Weekday": "Mon",
+    "Traffic": 80792,
+    "Orders": 6360,
+    "Sales": 208138
+  },
+  "8/22/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 21,
+    "Weekday": "Tue",
+    "Traffic": 90593,
+    "Orders": 7053,
+    "Sales": 234669
+  },
+  "8/23/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 22,
+    "Weekday": "Wed",
+    "Traffic": 84589,
+    "Orders": 7272,
+    "Sales": 244341
+  },
+  "8/24/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 23,
+    "Weekday": "Thu",
+    "Traffic": 86534,
+    "Orders": 6848,
+    "Sales": 225979
+  },
+  "8/25/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 24,
+    "Weekday": "Fri",
+    "Traffic": 78416,
+    "Orders": 6499,
+    "Sales": 219667
+  },
+  "8/26/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 25,
+    "Weekday": "Sat",
+    "Traffic": 63987,
+    "Orders": 4651,
+    "Sales": 163310
+  },
+  "8/27/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 26,
+    "Weekday": "Sun",
+    "Traffic": 78256,
+    "Orders": 5480,
+    "Sales": 180947
+  },
+  "8/28/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 27,
+    "Weekday": "Mon",
+    "Traffic": 92288,
+    "Orders": 6596,
+    "Sales": 222017
+  },
+  "8/29/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 28,
+    "Weekday": "Tue",
+    "Traffic": 79854,
+    "Orders": 6535,
+    "Sales": 225813
+  },
+  "8/30/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 29,
+    "Weekday": "Wed",
+    "Traffic": 77414,
+    "Orders": 6189,
+    "Sales": 214833
+  },
+  "8/31/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 30,
+    "Weekday": "Thu",
+    "Traffic": 102912,
+    "Orders": 11835,
+    "Sales": 305035
+  },
+  "9/1/2024": {
+    "Year": 2024,
+    "Month": "Aug",
+    "Day": 31,
+    "Weekday": "Fri",
+    "Traffic": 88737,
+    "Orders": 8933,
+    "Sales": 269743
+  },
+  "9/2/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 1,
+    "Weekday": "Sat",
+    "Traffic": 77642,
+    "Orders": 7446,
+    "Sales": 226162
+  },
+  "9/3/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 2,
+    "Weekday": "Sun",
+    "Traffic": 78475,
+    "Orders": 7465,
+    "Sales": 224755
+  },
+  "9/4/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 3,
+    "Weekday": "Mon",
+    "Traffic": 85500,
+    "Orders": 10199,
+    "Sales": 306642
+  },
+  "9/5/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 4,
+    "Weekday": "Tue",
+    "Traffic": 84266,
+    "Orders": 9755,
+    "Sales": 296362
+  },
+  "9/6/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 5,
+    "Weekday": "Wed",
+    "Traffic": 86243,
+    "Orders": 7149,
+    "Sales": 245543
+  },
+  "9/7/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 6,
+    "Weekday": "Thu",
+    "Traffic": 72745,
+    "Orders": 6052,
+    "Sales": 214010
+  },
+  "9/8/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 7,
+    "Weekday": "Fri",
+    "Traffic": 60480,
+    "Orders": 5370,
+    "Sales": 188108
+  },
+  "9/9/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 8,
+    "Weekday": "Sat",
+    "Traffic": 58067,
+    "Orders": 4650,
+    "Sales": 166213
+  },
+  "9/10/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 9,
+    "Weekday": "Sun",
+    "Traffic": 54867,
+    "Orders": 5237,
+    "Sales": 183159
+  },
+  "9/11/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 10,
+    "Weekday": "Mon",
+    "Traffic": 76252,
+    "Orders": 6499,
+    "Sales": 219350
+  },
+  "9/12/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 11,
+    "Weekday": "Tue",
+    "Traffic": 132697,
+    "Orders": 6316,
+    "Sales": 222415
+  },
+  "9/13/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 12,
+    "Weekday": "Wed",
+    "Traffic": 86071,
+    "Orders": 7519,
+    "Sales": 274940
+  },
+  "9/14/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 13,
+    "Weekday": "Thu",
+    "Traffic": 91919,
+    "Orders": 7576,
+    "Sales": 285197
+  },
+  "9/15/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 14,
+    "Weekday": "Fri",
+    "Traffic": 73521,
+    "Orders": 6001,
+    "Sales": 219389
+  },
+  "9/16/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 15,
+    "Weekday": "Sat",
+    "Traffic": 66215,
+    "Orders": 4584,
+    "Sales": 168600
+  },
+  "9/17/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 16,
+    "Weekday": "Sun",
+    "Traffic": 74651,
+    "Orders": 5308,
+    "Sales": 194421
+  },
+  "9/18/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 17,
+    "Weekday": "Mon",
+    "Traffic": 114674,
+    "Orders": 9760,
+    "Sales": 307305
+  },
+  "9/19/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 18,
+    "Weekday": "Tue",
+    "Traffic": 91220,
+    "Orders": 8198,
+    "Sales": 266363
+  },
+  "9/20/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 19,
+    "Weekday": "Wed",
+    "Traffic": 118271,
+    "Orders": 9603,
+    "Sales": 296815
+  },
+  "9/21/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 20,
+    "Weekday": "Thu",
+    "Traffic": 84976,
+    "Orders": 7968,
+    "Sales": 257752
+  },
+  "9/22/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 21,
+    "Weekday": "Fri",
+    "Traffic": 95746,
+    "Orders": 9637,
+    "Sales": 305285
+  },
+  "9/23/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 22,
+    "Weekday": "Sat",
+    "Traffic": 71107,
+    "Orders": 5079,
+    "Sales": 188126
+  },
+  "9/24/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 23,
+    "Weekday": "Sun",
+    "Traffic": 74816,
+    "Orders": 5427,
+    "Sales": 196190
+  },
+  "9/25/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 24,
+    "Weekday": "Mon",
+    "Traffic": 92573,
+    "Orders": 6668,
+    "Sales": 235043
+  },
+  "9/26/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 25,
+    "Weekday": "Tue",
+    "Traffic": 98410,
+    "Orders": 6928,
+    "Sales": 246853
+  },
+  "9/27/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 26,
+    "Weekday": "Wed",
+    "Traffic": 80951,
+    "Orders": 6207,
+    "Sales": 229128
+  },
+  "9/28/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 27,
+    "Weekday": "Thu",
+    "Traffic": 85623,
+    "Orders": 6342,
+    "Sales": 228577
+  },
+  "9/29/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 28,
+    "Weekday": "Fri",
+    "Traffic": 68437,
+    "Orders": 5272,
+    "Sales": 192469
+  },
+  "9/30/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 29,
+    "Weekday": "Sat",
+    "Traffic": 59950,
+    "Orders": 5212,
+    "Sales": 194032
+  },
+  "10/1/2024": {
+    "Year": 2024,
+    "Month": "Sep",
+    "Day": 30,
+    "Weekday": "Sun",
+    "Traffic": 67386,
+    "Orders": 5684,
+    "Sales": 212806
+  },
+  "10/2/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 1,
+    "Weekday": "Mon",
+    "Traffic": 84557,
+    "Orders": 7324,
+    "Sales": 263944
+  },
+  "10/3/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 2,
+    "Weekday": "Tue",
+    "Traffic": 93969,
+    "Orders": 7695,
+    "Sales": 274106
+  },
+  "10/4/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 3,
+    "Weekday": "Wed",
+    "Traffic": 94265,
+    "Orders": 8364,
+    "Sales": 281345
+  },
+  "10/5/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 4,
+    "Weekday": "Thu",
+    "Traffic": 81688,
+    "Orders": 6711,
+    "Sales": 247481
+  },
+  "10/6/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 5,
+    "Weekday": "Fri",
+    "Traffic": 66641,
+    "Orders": 5592,
+    "Sales": 202480
+  },
+  "10/7/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 6,
+    "Weekday": "Sat",
+    "Traffic": 56162,
+    "Orders": 4576,
+    "Sales": 171229
+  },
+  "10/8/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 7,
+    "Weekday": "Sun",
+    "Traffic": 58560,
+    "Orders": 4940,
+    "Sales": 178011
+  },
+  "10/9/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 8,
+    "Weekday": "Mon",
+    "Traffic": 118107,
+    "Orders": 12494,
+    "Sales": 363164
+  },
+  "10/10/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 9,
+    "Weekday": "Tue",
+    "Traffic": 160375,
+    "Orders": 7342,
+    "Sales": 265368
+  },
+  "10/11/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 10,
+    "Weekday": "Wed",
+    "Traffic": 98359,
+    "Orders": 6170,
+    "Sales": 219670
+  },
+  "10/12/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 11,
+    "Weekday": "Thu",
+    "Traffic": 85351,
+    "Orders": 6348,
+    "Sales": 228954
+  },
+  "10/13/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 12,
+    "Weekday": "Fri",
+    "Traffic": 103190,
+    "Orders": 10797,
+    "Sales": 329168
+  },
+  "10/14/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 13,
+    "Weekday": "Sat",
+    "Traffic": 67024,
+    "Orders": 5117,
+    "Sales": 193493
+  },
+  "10/15/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 14,
+    "Weekday": "Sun",
+    "Traffic": 63969,
+    "Orders": 5407,
+    "Sales": 203160
+  },
+  "10/16/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 15,
+    "Weekday": "Mon",
+    "Traffic": 89012,
+    "Orders": 6829,
+    "Sales": 245090
+  },
+  "10/17/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 16,
+    "Weekday": "Tue",
+    "Traffic": 77325,
+    "Orders": 6587,
+    "Sales": 245100
+  },
+  "10/18/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 17,
+    "Weekday": "Wed",
+    "Traffic": 101244,
+    "Orders": 7949,
+    "Sales": 277085
+  },
+  "10/19/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 18,
+    "Weekday": "Thu",
+    "Traffic": 81316,
+    "Orders": 6702,
+    "Sales": 238010
+  },
+  "10/20/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 19,
+    "Weekday": "Fri",
+    "Traffic": 72740,
+    "Orders": 6123,
+    "Sales": 230164
+  },
+  "10/21/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 20,
+    "Weekday": "Sat",
+    "Traffic": 48885,
+    "Orders": 3901,
+    "Sales": 147231
+  },
+  "10/22/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 21,
+    "Weekday": "Sun",
+    "Traffic": 51917,
+    "Orders": 5203,
+    "Sales": 196184
+  },
+  "10/23/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 22,
+    "Weekday": "Mon",
+    "Traffic": 74550,
+    "Orders": 6688,
+    "Sales": 245343
+  },
+  "10/24/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 23,
+    "Weekday": "Tue",
+    "Traffic": 86346,
+    "Orders": 6448,
+    "Sales": 233646
+  },
+  "10/25/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 24,
+    "Weekday": "Wed",
+    "Traffic": 90968,
+    "Orders": 6898,
+    "Sales": 253535
+  },
+  "10/26/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 25,
+    "Weekday": "Thu",
+    "Traffic": 75783,
+    "Orders": 6317,
+    "Sales": 231775
+  },
+  "10/27/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 26,
+    "Weekday": "Fri",
+    "Traffic": 63870,
+    "Orders": 5941,
+    "Sales": 216281
+  },
+  "10/28/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 27,
+    "Weekday": "Sat",
+    "Traffic": 53621,
+    "Orders": 4552,
+    "Sales": 178010
+  },
+  "10/29/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 28,
+    "Weekday": "Sun",
+    "Traffic": 52436,
+    "Orders": 5021,
+    "Sales": 189214
+  },
+  "10/30/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 29,
+    "Weekday": "Mon",
+    "Traffic": 81852,
+    "Orders": 6533,
+    "Sales": 243872
+  },
+  "10/31/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 30,
+    "Weekday": "Tue",
+    "Traffic": 68882,
+    "Orders": 6095,
+    "Sales": 227182
+  },
+  "11/1/2024": {
+    "Year": 2024,
+    "Month": "Oct",
+    "Day": 31,
+    "Weekday": "Wed",
+    "Traffic": 118458,
+    "Orders": 16245,
+    "Sales": 443032
+  },
+  "11/2/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 1,
+    "Weekday": "Thu",
+    "Traffic": 123533,
+    "Orders": 7149,
+    "Sales": 262142
+  },
+  "11/3/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 2,
+    "Weekday": "Fri",
+    "Traffic": 102495,
+    "Orders": 7991,
+    "Sales": 271928
+  },
+  "11/4/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 3,
+    "Weekday": "Sat",
+    "Traffic": 77196,
+    "Orders": 6871,
+    "Sales": 237858
+  },
+  "11/5/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 4,
+    "Weekday": "Sun",
+    "Traffic": 98189,
+    "Orders": 8336,
+    "Sales": 291897
+  },
+  "11/6/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 5,
+    "Weekday": "Mon",
+    "Traffic": 114449,
+    "Orders": 10321,
+    "Sales": 342960
+  },
+  "11/7/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 6,
+    "Weekday": "Tue",
+    "Traffic": 140446,
+    "Orders": 6947,
+    "Sales": 259300
+  },
+  "11/8/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 7,
+    "Weekday": "Wed",
+    "Traffic": 121834,
+    "Orders": 7197,
+    "Sales": 267558
+  },
+  "11/9/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 8,
+    "Weekday": "Thu",
+    "Traffic": 107946,
+    "Orders": 7530,
+    "Sales": 276256
+  },
+  "11/10/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 9,
+    "Weekday": "Fri",
+    "Traffic": 79989,
+    "Orders": 6426,
+    "Sales": 242492
+  },
+  "11/11/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 10,
+    "Weekday": "Sat",
+    "Traffic": 70873,
+    "Orders": 5474,
+    "Sales": 215678
+  },
+  "11/12/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 11,
+    "Weekday": "Sun",
+    "Traffic": 69473,
+    "Orders": 6159,
+    "Sales": 240536
+  },
+  "11/13/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 12,
+    "Weekday": "Mon",
+    "Traffic": 105538,
+    "Orders": 10575,
+    "Sales": 365877
+  },
+  "11/14/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 13,
+    "Weekday": "Tue",
+    "Traffic": 109714,
+    "Orders": 10514,
+    "Sales": 370773
+  },
+  "11/15/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 14,
+    "Weekday": "Wed",
+    "Traffic": 116338,
+    "Orders": 12689,
+    "Sales": 440654
+  },
+  "11/16/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 15,
+    "Weekday": "Thu",
+    "Traffic": 84930,
+    "Orders": 7114,
+    "Sales": 269642
+  },
+  "11/17/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 16,
+    "Weekday": "Fri",
+    "Traffic": 71610,
+    "Orders": 6124,
+    "Sales": 234943
+  },
+  "11/18/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 17,
+    "Weekday": "Sat",
+    "Traffic": 68888,
+    "Orders": 5113,
+    "Sales": 201891
+  },
+  "11/19/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 18,
+    "Weekday": "Sun",
+    "Traffic": 72336,
+    "Orders": 5850,
+    "Sales": 231408
+  },
+  "11/20/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 19,
+    "Weekday": "Mon",
+    "Traffic": 91338,
+    "Orders": 6382,
+    "Sales": 248902
+  },
+  "11/21/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 20,
+    "Weekday": "Tue",
+    "Traffic": 83778,
+    "Orders": 5999,
+    "Sales": 235559
+  },
+  "11/22/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 21,
+    "Weekday": "Wed",
+    "Traffic": 87894,
+    "Orders": 5398,
+    "Sales": 210243
+  },
+  "11/23/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 22,
+    "Weekday": "Thu",
+    "Traffic": 182521,
+    "Orders": 4966,
+    "Sales": 169649
+  },
+  "11/24/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 23,
+    "Weekday": "Fri",
+    "Traffic": 223810,
+    "Orders": 9698,
+    "Sales": 343382
+  },
+  "11/25/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 24,
+    "Weekday": "Sat",
+    "Traffic": 134151,
+    "Orders": 7889,
+    "Sales": 290962
+  },
+  "11/26/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 25,
+    "Weekday": "Sun",
+    "Traffic": 114746,
+    "Orders": 8704,
+    "Sales": 312398
+  },
+  "11/27/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 26,
+    "Weekday": "Mon",
+    "Traffic": 191257,
+    "Orders": 17321,
+    "Sales": 587881
+  },
+  "11/28/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 27,
+    "Weekday": "Tue",
+    "Traffic": 129908,
+    "Orders": 13149,
+    "Sales": 451799
+  },
+  "11/29/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 28,
+    "Weekday": "Wed",
+    "Traffic": 126031,
+    "Orders": 10063,
+    "Sales": 355218
+  },
+  "11/30/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 29,
+    "Weekday": "Thu",
+    "Traffic": 106104,
+    "Orders": 9195,
+    "Sales": 322859
+  },
+  "12/1/2024": {
+    "Year": 2024,
+    "Month": "Nov",
+    "Day": 30,
+    "Weekday": "Fri",
+    "Traffic": 79353,
+    "Orders": 8309,
+    "Sales": 301837
+  },
+  "12/2/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 1,
+    "Weekday": "Sat",
+    "Traffic": 75068,
+    "Orders": 7337,
+    "Sales": 264949
+  },
+  "12/3/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 2,
+    "Weekday": "Sun",
+    "Traffic": 92103,
+    "Orders": 9048,
+    "Sales": 317907
+  },
+  "12/4/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 3,
+    "Weekday": "Mon",
+    "Traffic": 113402,
+    "Orders": 10934,
+    "Sales": 371895
+  },
+  "12/5/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 4,
+    "Weekday": "Tue",
+    "Traffic": 117037,
+    "Orders": 13005,
+    "Sales": 436776
+  },
+  "12/6/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 5,
+    "Weekday": "Wed",
+    "Traffic": 140853,
+    "Orders": 8463,
+    "Sales": 325012
+  },
+  "12/7/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 6,
+    "Weekday": "Thu",
+    "Traffic": 133144,
+    "Orders": 8439,
+    "Sales": 329036
+  },
+  "12/8/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 7,
+    "Weekday": "Fri",
+    "Traffic": 119817,
+    "Orders": 11275,
+    "Sales": 370774
+  },
+  "12/9/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 8,
+    "Weekday": "Sat",
+    "Traffic": 80399,
+    "Orders": 7862,
+    "Sales": 265076
+  },
+  "12/10/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 9,
+    "Weekday": "Sun",
+    "Traffic": 77193,
+    "Orders": 7963,
+    "Sales": 265376
+  },
+  "12/11/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 10,
+    "Weekday": "Mon",
+    "Traffic": 111300,
+    "Orders": 12923,
+    "Sales": 398728
+  },
+  "12/12/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 11,
+    "Weekday": "Tue",
+    "Traffic": 98820,
+    "Orders": 7915,
+    "Sales": 290537
+  },
+  "12/13/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 12,
+    "Weekday": "Wed",
+    "Traffic": 84052,
+    "Orders": 7649,
+    "Sales": 286297
+  },
+  "12/14/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 13,
+    "Weekday": "Thu",
+    "Traffic": 92591,
+    "Orders": 7934,
+    "Sales": 289085
+  },
+  "12/15/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 14,
+    "Weekday": "Fri",
+    "Traffic": 71891,
+    "Orders": 6964,
+    "Sales": 251392
+  },
+  "12/16/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 15,
+    "Weekday": "Sat",
+    "Traffic": 66722,
+    "Orders": 5697,
+    "Sales": 208895
+  },
+  "12/17/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 16,
+    "Weekday": "Sun",
+    "Traffic": 60666,
+    "Orders": 5333,
+    "Sales": 198863
+  },
+  "12/18/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 17,
+    "Weekday": "Mon",
+    "Traffic": 93643,
+    "Orders": 7063,
+    "Sales": 256002
+  },
+  "12/19/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 18,
+    "Weekday": "Tue",
+    "Traffic": 68012,
+    "Orders": 5085,
+    "Sales": 181250
+  },
+  "12/20/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 19,
+    "Weekday": "Wed",
+    "Traffic": 65631,
+    "Orders": 4654,
+    "Sales": 160732
+  },
+  "12/21/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 20,
+    "Weekday": "Thu",
+    "Traffic": 71578,
+    "Orders": 4136,
+    "Sales": 140282
+  },
+  "12/22/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 21,
+    "Weekday": "Fri",
+    "Traffic": 57554,
+    "Orders": 3530,
+    "Sales": 113656
+  },
+  "12/23/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 22,
+    "Weekday": "Sat",
+    "Traffic": 43459,
+    "Orders": 2623,
+    "Sales": 88927
+  },
+  "12/24/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 23,
+    "Weekday": "Sun",
+    "Traffic": 41097,
+    "Orders": 2141,
+    "Sales": 72843
+  },
+  "12/25/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 24,
+    "Weekday": "Mon",
+    "Traffic": 29691,
+    "Orders": 1819,
+    "Sales": 61861
+  },
+  "12/26/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 25,
+    "Weekday": "Tue",
+    "Traffic": 40358,
+    "Orders": 1809,
+    "Sales": 57972
+  },
+  "12/27/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 26,
+    "Weekday": "Wed",
+    "Traffic": 98009,
+    "Orders": 7072,
+    "Sales": 208400
+  },
+  "12/28/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 27,
+    "Weekday": "Thu",
+    "Traffic": 70803,
+    "Orders": 5681,
+    "Sales": 169836
+  },
+  "12/29/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 28,
+    "Weekday": "Fri",
+    "Traffic": 62552,
+    "Orders": 5596,
+    "Sales": 169909
+  },
+  "12/30/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 29,
+    "Weekday": "Sat",
+    "Traffic": 83518,
+    "Orders": 6593,
+    "Sales": 201747
+  },
+  "12/31/2024": {
+    "Year": 2024,
+    "Month": "Dec",
+    "Day": 30,
+    "Weekday": "Sun",
+    "Traffic": 178480,
+    "Orders": 6690,
+    "Sales": 202618
+  }
+}

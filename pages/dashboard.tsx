@@ -1,32 +1,32 @@
-"use client";
 import { useState } from "react";
 import dynamic from "next/dynamic";
+import { promises as fs } from "fs";
 
 const ApexCharts = dynamic(() => import("react-apexcharts"), {
   ssr: false, // Ensure ApexCharts is not imported during SSR
 });
 
-export default function Dashboard() {
+export default function Dashboard({ years, traffic }) {
   const [state, setState] = useState({
     options: {
       chart: {
-        id: "basic-bar",
+        id: "traffic-line",
       },
       xaxis: {
-        categories: [1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999],
+        categories: years,
       },
     },
     series: [
       {
-        name: "series-1",
-        data: [30, 40, 45, 50, 49, 60, 70, 91],
+        name: "traffic",
+        data: traffic,
       },
     ],
   });
 
   return (
     <>
-      <h1 class="text-5xl font-extrabold dark:text-white text-center p-5 m-5">
+      <h1 className="text-5xl font-extrabold dark:text-white text-center p-5 m-5">
         Welcome to Dashboard
       </h1>
 
@@ -39,4 +39,32 @@ export default function Dashboard() {
       />
     </>
   );
+}
+
+export async function getStaticProps() {
+  const data = await fs.readFile(process.cwd() + "/data.json", "utf8");
+  const json = Object.values(JSON.parse(data));
+
+  // Collect unique years
+  let years = new Set();
+  Object.values(json).map((e) => {
+    years.add(e.Year);
+  });
+
+  // Collect total traffic by year
+  let traffic_per_year = {};
+  years.forEach((year) => {
+    traffic_per_year[year] = json
+      .filter((row) => row.Year === year)
+      .reduce((res, value) => {
+        return res + value.Traffic;
+      }, 0);
+  });
+
+  years = Array.from(years); // Convert to Array
+  const traffic = Object.values(traffic_per_year);
+
+  console.log(years);
+  console.log(traffic);
+  return { props: { years, traffic } };
 }
