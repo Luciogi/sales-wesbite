@@ -1,10 +1,10 @@
 import { Nav } from "./navbar";
 import Foot from "./footer";
 
-export default function Layout({ children }) {
+export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
-      <main class="md:container md:mx-auto">
+      <main className="md:container md:mx-auto">
         <Nav />
         <main>{children}</main>
         <Foot />
@@ -12,4 +12,3 @@ export default function Layout({ children }) {
     </>
   );
 }
-
