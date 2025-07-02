@@ -1,16 +1,17 @@
 import { useState } from "react";
 import dynamic from "next/dynamic";
 import { promises as fs } from "fs";
+import { TabItem, Tabs, Card } from "flowbite-react";
 
 const ApexCharts = dynamic(() => import("react-apexcharts"), {
   ssr: false, // Ensure ApexCharts is not imported during SSR
 });
 
 export default function Dashboard({ years, traffic }) {
-  const [state, setState] = useState({
+  const [trafficPerYear, setTrafficPerYear] = useState({
     options: {
       chart: {
-        id: "traffic-line",
+        id: "traffic-chart",
       },
       xaxis: {
         categories: years,
@@ -24,24 +25,57 @@ export default function Dashboard({ years, traffic }) {
     ],
   });
 
+  const [state, setState] = useState({
+    series: traffic,
+    options: {
+      labels: years,
+    },
+  });
   return (
     <>
       <h1 className="text-5xl font-extrabold dark:text-white text-center p-5 m-5">
         Welcome to Dashboard
       </h1>
-
-      <ApexCharts
-        options={state.options}
-        series={state.series}
-        type="area"
-        height={350}
-        width={700}
-      />
+      <Tabs aria-label="Default tabs" variant="fullWidth">
+        <TabItem active title="Line Chart">
+          <Card href="#" className="max-w">
+            <ApexCharts
+              options={trafficPerYear.options}
+              series={trafficPerYear.series}
+              type="line"
+              height={350}
+              width={"100%"}
+            />
+          </Card>
+        </TabItem>
+        <TabItem title="Bar Chart">
+          <Card href="#" className="max-w">
+            <ApexCharts
+              options={trafficPerYear.options}
+              series={trafficPerYear.series}
+              type="bar"
+              height={350}
+              width={"100%"}
+            />
+          </Card>
+        </TabItem>
+        <TabItem title="Pie Chart">
+          <Card href="#" className="max-w">
+            <ApexCharts
+              options={state.options}
+              series={state.series}
+              type="pie"
+              height={350}
+              width={"100%"}
+            />
+          </Card>
+        </TabItem>
+      </Tabs>
     </>
   );
 }
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const data = await fs.readFile(process.cwd() + "/data.json", "utf8");
   const json = Object.values(JSON.parse(data));
 
