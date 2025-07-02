@@ -7,8 +7,14 @@ const ApexCharts = dynamic(() => import("react-apexcharts"), {
   ssr: false, // Ensure ApexCharts is not imported during SSR
 });
 
-export default function Dashboard({ years, traffic }) {
-  const [trafficPerYear, setTrafficPerYear] = useState({
+export default function Dashboard({
+  years,
+  traffic,
+}: {
+  years: number[];
+  traffic: number[];
+}) {
+  const [trafficPerYear] = useState({
     options: {
       chart: {
         id: "traffic-chart",
@@ -25,10 +31,10 @@ export default function Dashboard({ years, traffic }) {
     ],
   });
 
-  const [state, setState] = useState({
+  const [state] = useState({
     series: traffic,
     options: {
-      labels: years,
+      labels: years.map((e: number) => e.toString()),
     },
   });
   return (
@@ -76,27 +82,37 @@ export default function Dashboard({ years, traffic }) {
 }
 
 export async function getServerSideProps() {
-  const data = await fs.readFile(process.cwd() + "/data.json", "utf8");
-  const json = Object.values(JSON.parse(data));
+  interface Row {
+    Year: number;
+    Month: string;
+    Day: number;
+    Weekday: string;
+    Traffic: number;
+    Orders: number;
+    Sales: number;
+  }
+  const data: string = await fs.readFile(process.cwd() + "/data.json", "utf8");
+  const json: Row[] = Object.values(JSON.parse(data));
 
   // Collect unique years
-  let years = new Set();
-  Object.values(json).map((e) => {
-    years.add(e.Year);
+  const years_set = new Set<number>();
+  Object.values(json).forEach((e: Row) => {
+    years_set.add(e.Year);
   });
 
   // Collect total traffic by year
-  let traffic_per_year = {};
-  years.forEach((year) => {
-    traffic_per_year[year] = json
-      .filter((row) => row.Year === year)
-      .reduce((res, value) => {
-        return res + value.Traffic;
-      }, 0);
+  const traffic_per_year: { [index: number]: number } = {};
+  years_set.forEach((year: number) => {
+    const total_traffic: number = Number(
+      json
+        .filter((row: Row) => row.Year === year)
+        .reduce((res: number, object: Row) => res + object.Traffic, 0),
+    );
+    traffic_per_year[year] = total_traffic;
   });
 
-  years = Array.from(years); // Convert to Array
-  const traffic = Object.values(traffic_per_year);
+  const years: number[] = Array.from(years_set); // Convert to Array
+  const traffic: number[] = Object.values(traffic_per_year);
 
   console.log(years);
   console.log(traffic);
